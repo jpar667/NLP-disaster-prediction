@@ -1,0 +1,9 @@
+# Preserve CSV bytes and intentional whitespace inside original tweet fields.
+*.csv -text -whitespace
+
+# Keep source and documentation line endings consistent.
+*.py text eol=lf
+*.md text eol=lf
+*.toml text eol=lf
+*.ipynb text eol=lf
+*.png binary

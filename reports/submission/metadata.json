@@ -1,0 +1,27 @@
+{
+  "model": "text_keyword",
+  "input_columns": [
+    "text",
+    "keyword"
+  ],
+  "pipeline_definition": "model_pipeline.make_model([\"keyword\"])",
+  "training_rows": 7613,
+  "prediction_rows": 3263,
+  "threshold": 0.5,
+  "source_sha256": {
+    "train.csv": "61111c6dc31eaffa34d1e1fa62e2395325c9bc3b38bba1941a5f1ed9b3fa60df",
+    "test.csv": "33375dc852696331c5ad30d078ea4d20e357b74052be6225fecc2a2b0f468bd2",
+    "sample_submission.csv": "ec431de21357caad931108491d696954cd77c53149b7ce13380ca4d00d4da2db"
+  },
+  "submission_sha256": "87a280345168399eb10118233b85b3f2dcd410f6d580d45d32194fa26c03d040",
+  "prediction_counts": {
+    "0": 2043,
+    "1": 1220
+  },
+  "validation_reference": {
+    "mean_fold_f1": 0.7698697679850006,
+    "oof_f1": 0.7698771816418876,
+    "evaluation": "five stratified normalized-text-grouped folds; not a test score"
+  },
+  "submitted_to_kaggle": false
+}

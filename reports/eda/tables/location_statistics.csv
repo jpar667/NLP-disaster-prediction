@@ -1,0 +1,3344 @@
+location,count,disaster_rate
+USA,104,0.6442307692307693
+New York,71,0.22535211267605634
+United States,50,0.54
+London,45,0.35555555555555557
+Canada,29,0.4482758620689655
+Nigeria,28,0.7857142857142857
+UK,27,0.5925925925925926
+"Los Angeles, CA",26,0.3076923076923077
+India,24,0.8333333333333334
+Mumbai,22,0.8636363636363636
+"Washington, DC",21,0.7142857142857143
+Kenya,20,0.25
+Worldwide,19,0.631578947368421
+"Chicago, IL",18,0.5
+Australia,18,0.5
+California,17,0.4117647058823529
+Everywhere,15,0.2
+"New York, NY",15,0.4666666666666667
+"California, USA",15,0.5333333333333333
+San Francisco,14,0.42857142857142855
+United Kingdom,14,0.2857142857142857
+Florida,14,0.21428571428571427
+Los Angeles,13,0.5384615384615384
+"Washington, D.C.",13,0.6923076923076923
+Indonesia,13,0.6153846153846154
+NYC,12,0.16666666666666666
+Toronto,12,0.5833333333333334
+Ireland,12,0.5
+Seattle,11,0.36363636363636365
+Chicago,11,0.36363636363636365
+Earth,11,0.7272727272727273
+"San Francisco, CA",11,0.6363636363636364
+"London, England",10,0.1
+"London, UK",10,0.5
+ss,10,0.1
+Texas,10,0.3
+"Sacramento, CA",10,0.7
+New York City,10,0.6
+"Atlanta, GA",10,0.5
+World,9,0.4444444444444444
+"Nashville, TN",9,0.7777777777777778
+304,9,0.0
+"San Diego, CA",9,0.3333333333333333
+Manchester,9,0.2222222222222222
+US,9,0.6666666666666666
+"Denver, Colorado",9,0.6666666666666666
+"Dallas, TX",9,0.3333333333333333
+Scotland,8,0.5
+"Houston, TX",8,0.5
+South Africa,8,0.25
+"Pennsylvania, USA",7,0.0
+"Memphis, TN",7,0.7142857142857143
+"Seattle, WA",7,0.42857142857142855
+worldwide,7,0.42857142857142855
+Tennessee,7,0.5714285714285714
+"Denver, CO",7,0.5714285714285714
+"Austin, TX",7,0.42857142857142855
+Sydney,7,0.5714285714285714
+"Paterson, New Jersey ",6,0.8333333333333334
+Massachusetts,6,0.5
+Singapore,6,0.3333333333333333
+??????,6,0.5
+Pedophile hunting ground,6,0.8333333333333334
+Global,6,0.5
+"Portland, OR",6,0.3333333333333333
+Planet Earth,6,0.6666666666666666
+"Orlando, FL",6,0.3333333333333333
+Atlanta,6,0.3333333333333333
+ Road to the Billionaires Club,6,0.16666666666666666
+"Calgary, Alberta",6,0.6666666666666666
+"Brooklyn, NY",6,0.16666666666666666
+"Morioh, Japan",6,0.0
+"Oklahoma City, OK",6,0.8333333333333334
+"California, United States",6,0.16666666666666666
+"Charlotte, NC",6,0.3333333333333333
+Colorado,6,0.5
+"Florida, USA",5,0.4
+Southern California,5,0.4
+Newcastle,5,0.4
+Wisconsin,5,0.0
+"Tampa, FL",5,0.4
+WorldWide,5,0.8
+Pennsylvania,5,0.4
+"New York, USA",5,0.2
+"Texas, USA",5,0.0
+"Calgary, AB",5,0.6
+Lagos,5,0.6
+in the Word of God,5,0.6
+"Asheville, NC",5,0.6
+"San Jose, CA",5,0.2
+NY,5,0.4
+"Leeds, England",5,0.0
+Puerto Rico,5,0.8
+"Lagos, Nigeria",5,0.8
+The Netherlands,5,0.8
+North Carolina,5,0.6
+Philippines,5,0.6
+"Cleveland, OH",5,0.4
+"Vancouver, BC",5,0.2
+New Jersey,5,0.2
+New Hampshire,5,0.6
+Brasil,5,0.2
+Coventry,5,0.0
+Indiana,5,0.0
+"Boston, MA",5,0.2
+"Melbourne, Australia",5,0.8
+Pakistan,5,0.6
+"Portland, Oregon",4,1.0
+Jakarta/Kuala Lumpur/S'pore,4,1.0
+Oregon,4,0.25
+Nigeria ,4,1.0
+Jamaica,4,0.5
+"Las Vegas, Nevada",4,0.5
+Leicester,4,0.5
+Barbados,4,0.25
+"Seattle, Washington",4,0.0
+Melbourne,4,0.75
+"Port Harcourt, Nigeria",4,0.75
+Sacramento,4,1.0
+?,4,0.25
+Japan,4,0.75
+Happily Married with 2 kids ,4,0.0
+??,4,0.5
+Republic of Texas,4,0.5
+Nairobi-KENYA,4,1.0
+"Haddonfield, NJ",4,1.0
+Geneva,4,0.5
+canada,4,1.0
+london,4,0.25
+Switzerland,4,0.0
+Kansas City,4,0.25
+?????,4,0.5
+Tokyo,4,0.5
+"Sydney, New South Wales",4,0.75
+Calgary,4,1.0
+"Philadelphia, PA",4,0.5
+"Oakland, CA",4,0.75
+Cape Town,4,0.5
+MAD as Hell,4,1.0
+San Francisco Bay Area,4,0.5
+Paignton,4,0.25
+Atlanta Georgia ,4,0.25
+U.S.A,4,0.75
+Midwest,4,1.0
+"Manchester, England",4,0.25
+Birmingham,4,0.75
+"British Columbia, Canada",4,0.75
+china,4,0.25
+"Mumbai, Maharashtra",4,0.75
+Edinburgh,4,0.0
+"North Carolina, USA",4,0.5
+"Massachusetts, USA",4,0.5
+"Sydney, Australia",4,0.75
+Maryland,4,0.25
+"Bend, Oregon",4,1.0
+Michigan,4,0.5
+"Phoenix, AZ",4,0.75
+Brazil,3,0.0
+"Illinois, USA",3,0.6666666666666666
+"St. Louis, MO",3,0.3333333333333333
+Sweden,3,0.3333333333333333
+Gotham City,3,0.3333333333333333
+Subconscious LA,3,0.3333333333333333
+"Haysville, KS",3,0.3333333333333333
+"Stockholm, Sweden",3,0.6666666666666666
+new york,3,0.3333333333333333
+"South, USA",3,0.6666666666666666
+Hong Kong,3,1.0
+"Birmingham, England",3,0.3333333333333333
+"State College, PA",3,0.3333333333333333
+Buy Give Me My Money ,3,0.0
+"Hawaii, USA",3,1.0
+"Buffalo, NY",3,0.3333333333333333
+Africa,3,1.0
+"Adelaide, Australia",3,0.0
+"Columbus, OH",3,0.3333333333333333
+CA,3,0.0
+Upstairs.,3,0.6666666666666666
+iTunes,3,1.0
+California ,3,0.6666666666666666
+nyc,3,0.6666666666666666
+"Winston-Salem, NC",3,0.3333333333333333
+"Dublin, Ireland",3,0.3333333333333333
+China,3,0.0
+"Des Moines, IA",3,0.0
+"Austin, Texas",3,0.3333333333333333
+Washington DC,3,0.6666666666666666
+CA via Brum,3,0.6666666666666666
+Utah,3,0.0
+Washington D.C.,3,0.6666666666666666
+"Vancouver, British Columbia",3,0.3333333333333333
+"Victoria, BC",3,0.6666666666666666
+"Victoria, British Columbia",3,0.6666666666666666
+Virginia,3,0.3333333333333333
+"Baltimore, MD",3,0.3333333333333333
+"Virginia, USA",3,0.3333333333333333
+East Coast,3,0.3333333333333333
+"Calgary, AB, Canada",3,1.0
+"Tulsa, Oklahoma",3,1.0
+Asia,3,0.6666666666666666
+America,3,0.6666666666666666
+America of Founding Fathers,3,0.3333333333333333
+Glasgow,3,0.0
+Germany,3,0.3333333333333333
+Georgia,3,0.3333333333333333
+"Anchorage, AK",3,0.6666666666666666
+Taylor Swift,3,0.0
+Anonymous,3,0.6666666666666666
+World Wide,3,0.6666666666666666
+Five down from the Coffeeshop,3,0.6666666666666666
+Financial News and Views,3,1.0
+Arizona,3,0.3333333333333333
+"Arlington, TX",3,0.3333333333333333
+"New Orleans ,Louisiana",3,0.6666666666666666
+England,3,0.6666666666666666
+"Toronto, Ontario",3,0.6666666666666666
+india,3,0.6666666666666666
+"New Orleans, LA",3,0.0
+Boston,3,0.6666666666666666
+NYC :) Ex- #Islamophobe,3,0.6666666666666666
+Nowhere. Everywhere.,3,0.0
+San Diego,3,0.3333333333333333
+Narnia,3,0.0
+Naperville,3,0.6666666666666666
+uk,3,0.3333333333333333
+"Nairobi, Kenya",3,0.6666666666666666
+Nairobi,3,0.6666666666666666
+London UK,3,0.6666666666666666
+NJ,3,0.6666666666666666
+#FLIGHTCITY UK  ,3,0.0
+"Johannesburg, South Africa",3,0.6666666666666666
+"Nottingham, England",3,0.3333333333333333
+Kama | 18 | France ,3,0.0
+PA,3,0.0
+Memphis,3,0.6666666666666666
+"Oregon, USA",3,0.0
+"Kansas City, MO",3,0.3333333333333333
+Karachi,3,1.0
+Karachi Pakistan,3,1.0
+"Ontario, Canada",3,0.6666666666666666
+???,3,0.6666666666666666
+Rio de Janeiro,3,0.0
+Las Vegas,3,0.0
+"Raleigh, NC",3,1.0
+"Milwaukee, WI",3,0.3333333333333333
+Italy,3,0.3333333333333333
+Oklahoma City,3,0.3333333333333333
+"Indianapolis, IN",3,0.6666666666666666
+Malaysia,3,0.3333333333333333
+Inexpressible Island ,3,1.0
+"Manhattan, NY",3,0.3333333333333333
+Iraq|Afghanistan| RSA |Baghdad,3,0.0
+"Madison, WI",3,0.3333333333333333
+"Los Angeles, California",3,0.3333333333333333
+MA,3,0.3333333333333333
+ARGENTINA,3,1.0
+"21.462446,-158.022017",3,0.6666666666666666
+Connecticut,2,0.5
+"Mesa, AZ",2,0.5
+Columbus,2,0.5
+"Orange County, California",2,0.5
+"Columbia, SC",2,0.5
+Unknown,2,0.5
+"Ottawa, Canada",2,0.5
+Colombia,2,0.0
+Wales,2,0.0
+"Detroit, MI",2,0.5
+"Cleveland, OH - San Diego, CA",2,1.0
+United States of America,2,1.0
+Ontario Canada,2,0.0
+Washington,2,1.0
+"Macon, GA",2,0.5
+"Miami, FL",2,0.0
+"Michigan, USA",2,0.0
+Dime's Palace,2,0.0
+WA State,2,1.0
+"Madison, GA",2,1.0
+Detroit,2,0.0
+DC,2,0.5
+Vancouver BC,2,0.0
+"Decatur, GA",2,0.0
+"Manila, Philippines",2,0.5
+"Manchester, UK",2,0.5
+Venezuela,2,0.5
+"Manchester, NH",2,1.0
+Washington State,2,1.0
+Maldives,2,0.5
+"Victoria, Australia, Earth",2,1.0
+Costa Rica,2,0.0
+Melbourne Australia,2,0.5
+Derby,2,0.0
+"Melbourne, Victoria",2,0.5
+"Cumming, GA",2,0.5
+Vietnam,2,1.0
+"Orlando, Fl",2,0.0
+Dallas Fort-Worth,2,0.5
+Desde Republica Argentina,2,0.5
+"Sarasota, FL",2,0.5
+"Chevy Chase, MD",2,1.0
+"Olympia, WA",2,0.5
+"New Delhi, Delhi",2,0.5
+CA physically- Boston Strong?,2,0.5
+"Newcastle Upon Tyne, England",2,0.0
+"Newark, NJ",2,0.0
+"Yamaku Academy, Class 3-4",2,0.0
+Bukittinggi  ?? Sumatera Barat,2,1.0
+New Zealand,2,1.0
+"Buenos Aires, Argentina",2,0.5
+"New York, New York",2,0.5
+Buenos Aires,2,0.5
+"Budapest, Hungary",2,0.0
+Yogya Berhati Nyaman,2,1.0
+"New Delhi, India",2,1.0
+World Wide Web,2,0.5
+Your screen,2,0.5
+Bronx NY,2,1.0
+New England,2,0.5
+Brisbane,2,0.5
+Breaking News,2,1.0
+"New Hanover County, NC",2,1.0
+New York ,2,0.5
+Bournemouth,2,0.0
+"anzio,italy",2,1.0
+New Sweden,2,0.5
+Boston MA,2,0.0
+"Niagara Falls, Ontario",2,0.5
+"Na:tinixw / Hoopa, Berkeley",2,1.0
+Chile,2,0.5
+Charlotte,2,0.5
+"Minna, Nigeria",2,0.5
+"Washington, DC & Charlotte, NC",2,1.0
+"Washington, USA",2,0.5
+"Chicago, Illinois",2,0.5
+"Ohio, USA",2,0.0
+"Odawara, Japan",2,0.5
+Does it really matter!,2,0.5
+Cherry Creek Denver CO,2,1.0
+West,2,1.0
+Mo.City,2,0.0
+Charlotte NC,2,0.5
+"West Virginia, USA",2,0.5
+NIGERIA,2,0.5
+"Moncton, New Brunswick",2,1.0
+"Wilmington, NC",2,0.5
+Winnipeg,2,0.5
+Mongolia,2,0.5
+"Winnipeg, Manitoba",2,0.0
+Oakland,2,0.0
+Moscow,2,0.5
+"Mumbai , India",2,1.0
+Norway,2,0.5
+"Muntinlupa City, Philippines",2,0.0
+NC,2,0.0
+"Mackay, QLD, Australia",2,0.5
+Paris,2,0.5
+Ukraine,2,1.0
+Rocky Mountains,2,1.0
+Jakarta,2,0.5
+SWMO,2,1.0
+Halifax,2,0.0
+Jerusalem,2,0.5
+"Hackney, London",2,0.0
+HTX,2,0.0
+SF Bay Area,2,0.5
+Street of Dallas,2,1.0
+"Greensboro, North Carolina",2,1.0
+Suplex City,2,0.5
+Jupiter,2,1.0
+Swaning Around,2,0.5
+"Gold Coast, Australia",2,0.5
+Dubai,2,1.0
+"Rock Hill, SC",2,0.0
+Sydney Australia,2,1.0
+Global-NoLocation,2,1.0
+"Karachi, Pakistan",2,1.0
+Kashmir!,2,1.0
+SÌ£o Paulo,2,0.5
+"Glasgow, Scotland",2,0.0
+"Roanoke, VA",2,0.5
+Roaming around the world,2,1.0
+Kent,2,0.0
+"Georgia, USA",2,0.0
+Riyadh,2,0.5
+"San Antonio, TX",2,0.5
+"St Paul, MN",2,0.0
+"St Charles, MD",2,0.0
+"Spokane, WA",2,0.5
+"Scotland, United Kingdom",2,0.5
+In the potters hands,2,1.0
+Incognito,2,0.0
+Selma2Oakland,2,1.0
+Silicon Valley,2,0.5
+"Silver Spring, MD",2,0.5
+"Huntsville, AL",2,0.5
+"Santa Cruz, CA",2,0.5
+Sand springs oklahoma,2,0.0
+Houston TX,2,1.0
+Somalia,2,0.5
+"Boise, Idaho",2,1.0
+Instagram - @heyimginog ,2,0.0
+Honduras,2,0.0
+"San Jose, California",2,0.5
+Somewhere Only We Know ?,2,0.0
+Somewhere in the Canada,2,1.0
+Here.,2,0.0
+South Stand,2,0.0
+San Diego California 92101,2,1.0
+Israel,2,0.5
+Helsinki,2,1.0
+Heaven,2,1.0
+Istanbul,2,0.5
+Spare 'Oom,2,0.5
+TX,2,0.0
+"Gainesville, FL",2,0.5
+"Kingston, Jamaica",2,1.0
+"Toronto, Canada",2,0.0
+Pittsburgh,2,0.0
+Location,2,0.5
+"Eldoret, kenya",2,1.0
+Phoenix,2,0.5
+"El Dorado, Arkansas",2,1.0
+"Philadelphia, PA ",2,0.5
+Trinidad & Tobago,2,0.5
+Trinidad and Tobago,2,0.5
+EastCarolina,2,0.5
+Philadelphia,2,1.0
+Los Angeles ,2,0.0
+U.K.,2,1.0
+"Perth, Western Australia",2,0.5
+Louisiana,2,0.0
+"Lyallpur, Pakistan",2,1.0
+EIC,2,0.5
+"Durham, NC",2,0.0
+In Hell,2,1.0
+"Palo Alto, California",2,1.0
+"Palo Alto, CA",2,0.5
+Dundee,2,1.0
+USA (Formerly @usNOAAgov),2,1.0
+Macclesfield,2,0.5
+"Dublin City, Ireland",2,0.5
+"Dubai, UAE",2,0.5
+Liverpool,2,1.0
+Live On Webcam,2,0.0
+"Knoxville, TN",2,0.5
+"Enfield, UK",2,0.0
+GLOBAL,2,0.5
+Kolkata,2,0.5
+Korea,2,0.0
+"Renfrew, Scotland",2,0.0
+"Fresno, CA",2,0.5
+Reddit ,2,1.0
+Thailand,2,0.5
+The American Wasteland (MV),2,0.0
+"Redding, California, USA",2,1.0
+REPUBLICA DOMINICANA,2,1.0
+Lagos Nigeria,2,0.5
+Federal Capital Territory,2,0.5
+The Universe,2,0.5
+Pretoria,2,0.0
+"Ewa Beach, HI",2,0.0
+Portugal,2,0.5
+"Evanston, IL",2,1.0
+"Portland, Ore. ",2,1.0
+Europe,2,1.0
+"Erie, PA",2,0.0
+"Leesburg, FL",2,0.0
+To The Right of You!,2,0.5
+"Lincoln, NE",2,1.0
+"England, United Kingdom",2,1.0
+"Lisbon, Portugal",2,0.0
+Houston,2,0.5
+"Epic City, BB.",2,0.5
+Berlin - Germany,2,1.0
+" Queensland, Australia",2,0.5
+Alaska,2,0.0
+everywhere,2,0.5
+"Berlin, Germany",2,1.0
+dallas,2,0.5
+"ÌÏT: 10.614817868480726,12.195582811791382",2,1.0
+107-18 79TH STREET,2,0.0
+"Ashburn, VA",2,0.0
+online ,2,0.5
+rome,2,0.0
+????,2,0.0
+434,2,0.0
+Above the snake line - #YoNews,2,1.0
+Bandung,2,1.0
+somewhere USA ,2,0.0
+Arizona ,2,0.5
+hell,2,0.5
+"Alexandria, VA",2,0.5
+"Bakersfield, California",2,1.0
+ph,2,0.5
+???  Dreamz,2,0.0
+140920-21 & 150718-19 BEIJING,2,0.0
+302,2,0.0
+Baltimore,2,0.0
+A little house in the outback.,2,1.0
+texas,2,0.0
+world,2,1.0
+"Accra,Ghana",2,0.0
+? ,2,0.0
+"Auckland, New Zealand",2,0.0
+scandinavia,2,0.0
+#HarleyChick#PJNT#RunBenRun,2,0.0
+they/them ,2,0.5
+"Adelaide, South Australia",2,0.0
+617-BTOWN-BEATDOWN,2,0.0
+"19.600858, -99.047821",2,1.0
+Auckland,2,0.5
+mumbai,2,0.0
+"Bangalore, India",2,0.5
+"Baton Rouge, LA",2,0.0
+far away,2,0.0
+Alabama,2,0.0
+vancouver usa,2,0.0
+http://www.amazon.com/dp/B00HR,2,1.0
+va,2,0.5
+Belgium,2,0.5
+"los angeles, ca",2,0.0
+the insane asylum. ,2,0.5
+Blackpool,2,1.0
+tx,2,0.5
+RhodeIsland,1,0.0
+"Riverview, FL ",1,0.0
+scumbernauld,1,0.0
+Rhode Island,1,0.0
+"Riverside, California.",1,1.0
+Rheinbach / Germany,1,0.0
+"Riverdale, GA ",1,0.0
+Rhyme Or Reason?,1,1.0
+"Riverside, CA",1,0.0
+santo domingo,1,1.0
+Rio,1,0.0
+Right next to Compton,1,0.0
+Richardson TX,1,0.0
+satan's colon,1,0.0
+"Richmond Heights, OH",1,0.0
+Right here,1,0.0
+"Richmond, VA",1,0.0
+balvanera,1,0.0
+Robin Hood's County ,1,0.0
+san gabriel la union,1,0.0
+Room 234,1,1.0
+"Rockford, IL",1,0.0
+"Rockland County, NY",1,1.0
+"Rockville, Maryland",1,1.0
+probably watching survivor,1,1.0
+"Rogersville, MO",1,1.0
+Romania,1,0.0
+"Rome, Italy",1,1.0
+"Roppongi, Minato, Tokyo ",1,0.0
+Riyadh '),1,1.0
+"Rotterdam, The Netherlands",1,0.0
+probably the strip club,1,0.0
+"Rotterdam, Zuid-Holland",1,0.0
+Royton,1,0.0
+Rural Northern Nevada,1,0.0
+Russia,1,0.0
+"Rutherfordton, NC",1,0.0
+proudly South African,1,1.0
+Rocketing through the galaxy,1,1.0
+"Rock Springs, WY",1,1.0
+qosqo,1,1.0
+rzl ?,1,1.0
+Roads/Trails Everywhere,1,0.0
+Roadside,1,0.0
+russia,1,0.0
+Roanoke VA,1,0.0
+rural ohio (fuck),1,1.0
+seattle grace mercy death,1,0.0
+rowyso dallas ,1,0.0
+"Rochelle, GA",1,0.0
+Rochester,1,0.0
+rio de janeiro | brazil,1,0.0
+"Rochester Hills, MI",1,0.0
+"Rochester, NY",1,0.0
+right next to you,1,0.0
+right here,1,1.0
+"Reston, VA, USA",1,1.0
+Reading a romance novel,1,0.0
+Republica Dominicana,1,1.0
+"Portsmouth, VA",1,0.0
+Pratt-on-Wye,1,0.0
+"Predjama, Eslovenia.",1,0.0
+Prehistoric Earth,1,0.0
+someplace living my life,1,0.0
+sneaking glances at Thancred,1,0.0
+Primum non nocere,1,1.0
+Principality of Zeron,1,1.0
+Pro-American and Anti-#Occupy,1,1.0
+Proud @BuckMasonUSA supporter!,1,1.0
+snapchat~ maddzz_babby ,1,0.0
+Proudly Canadian!,1,0.0
+Proudly frozen Canuck eh !!,1,0.0
+Providence RI / Lisnaskea ,1,1.0
+"Pueblo, CO",1,1.0
+"Pueblo, Colorado",1,0.0
+"sitting on the fence, New York",1,0.0
+PunPunlÌ¢ndia,1,0.0
+Positive 852,1,0.0
+"Portsmouth, UK",1,0.0
+Republic of the Philippines,1,1.0
+Portoviejo-Manabi-Ecuador,1,0.0
+Pontefract UK,1,1.0
+"Pontevedra, Galicia",1,0.0
+"Poplar, London",1,0.0
+"Port Charlotte, FL",1,0.0
+south africa eastern cape,1,0.0
+"Port Jervis, NY",1,0.0
+"Port Orange, FL",1,1.0
+Port Williams NS,1,1.0
+"Portage, IN / Worldwide",1,1.0
+Porthcawl,1,1.0
+somewhere too cold for me,1,1.0
+somewhere over a rainbow,1,1.0
+somewhere outside,1,1.0
+somewhere in cali ,1,0.0
+somewhere in Portugal,1,0.0
+"Porto Alegre, Rio Grande do Sul",1,0.0
+somewhere in Indiana ,1,0.0
+"Pune, Maharashtra",1,1.0
+"Pune, mostly ",1,0.0
+Punjab,1,1.0
+Purfleet,1,1.0
+Raleigh (Garner/Cleveland) NC,1,0.0
+"Raleigh Durham, NC",1,1.0
+shoujo hell ,1,1.0
+"Rapid City, Black Hills, SD",1,1.0
+"Rapid City, South Dakota",1,1.0
+Reading MA,1,1.0
+Reading UK,1,0.0
+SD |Norway| KSA,1,1.0
+Reality,1,1.0
+Realville,1,1.0
+sheffield // rotherham,1,0.0
+Reddit,1,0.0
+she/her/your majesty/empress,1,0.0
+"Redondo Beach, CA",1,1.0
+Regalo Island,1,0.0
+seoul,1,1.0
+seattle wa,1,0.0
+Rafael castillo,1,0.0
+RSN: Tru,1,0.0
+sindria,1,1.0
+"sitting on Eddie Vedders lap,",1,0.0
+"Purgatory, USA",1,0.0
+QLD Australia,1,1.0
+QUEENS.,1,0.0
+"Quantico, VA",1,0.0
+Queen Creek AZ,1,0.0
+Queens New York,1,0.0
+"Queens, NY",1,0.0
+sisterhood,1,0.0
+"R'lyeh, South Pacific",1,1.0
+Queensland,1,0.0
+"Queensland, Australia",1,1.0
+"Quezon City, Philippines",1,1.0
+"Quilmes , Arg",1,1.0
+Quincy,1,0.0
+Quincy MA,1,1.0
+"Quito, Ecuador.",1,1.0
+S.F. Bay area,1,1.0
+STL ?NOLA,1,0.0
+SE London(heart is by the sea),1,1.0
+Serva Fidem,1,1.0
+Shady Pines ,1,0.0
+"Shah Alam,Malaysia",1,0.0
+Shanghai,1,0.0
+"Sharkatraz/Bindle's Cleft, PA",1,0.0
+Sheff/Bangor/Salamanca/Madrid,1,0.0
+"Sheffield Township, Ohio",1,1.0
+Sheffield/Leeds,1,1.0
+Shelby County,1,1.0
+"Sherwood, Brisbane, Australia",1,0.0
+Shipwreck Cove,1,1.0
+"Shirley, NY",1,0.0
+Shity land of Northern Ireland,1,0.0
+Shrewsbury,1,0.0
+"Sicamous, British Columbia",1,1.0
+"Silang, Cavite / ParaÌ±aque",1,0.0
+"Silesia, Poland",1,0.0
+ngapain?,1,1.0
+Sevier County.,1,1.0
+"Semarang, Indonesia",1,0.0
+Silvermoon or Ironforge,1,1.0
+nigeria,1,1.0
+Scotland ,1,1.0
+nowhere,1,0.0
+not so cool KY,1,1.0
+"Scotts Valley, CA",1,0.0
+"Scottsdale, AZ",1,0.0
+Scottsdale. AZ,1,0.0
+"Screwston, TX",1,1.0
+norway,1,0.0
+Searching for Bae ,1,1.0
+nor*cal,1,0.0
+Seattle WA,1,1.0
+"Seattle native in Prescott, AZ",1,0.0
+nj/ny,1,0.0
+nj,1,1.0
+See the barn of bleakness,1,0.0
+Selangor,1,1.0
+Selena | Britney | Hilary,1,0.0
+"new york, ny",1,0.0
+neil's kitchen  |  32215,1,0.0
+Score Team Goals Buying @,1,0.0
+Someday I'll live in England. ,1,0.0
+Somewhere,1,0.0
+"nashville, tn ",1,0.0
+Somewhere ,1,0.0
+nap queen,1,0.0
+Somewhere Around You,1,1.0
+Somewhere Out There,1,1.0
+Somewhere Powerbraking A Chevy,1,0.0
+Somewhere between Chicago & Milwaukee,1,0.0
+Somewhere between here & there,1,0.0
+Somewhere else...,1,0.0
+Somewhere in China.,1,1.0
+Somewhere in Jersey,1,0.0
+Somewhere in Spain,1,1.0
+nap central,1,1.0
+Somewhere out there,1,1.0
+Somewhere with Clyde,1,0.0
+Soufside,1,0.0
+"Somerset, UK",1,0.0
+"Somecity, Somerset, MD",1,0.0
+"Sioux Falls, S.D. ",1,1.0
+Some where,1,0.0
+"Sioux Falls, SD",1,0.0
+Skyhold,1,1.0
+Skyport de la Rosa,1,0.0
+Slappin and Smackin ,1,0.0
+"Slateport City, Hoenn",1,0.0
+"Slatina,Romania",1,0.0
+"Sligo and Galway, Ireland",1,1.0
+Smash Manor/Kanto,1,0.0
+SoCal,1,0.0
+nearest trash can ,1,0.0
+SoDak,1,1.0
+"Sochi, KDA, RU",1,0.0
+nc,1,0.0
+nbc washington,1,1.0
+Some Where in this World,1,0.0
+Some other mansion,1,0.0
+Some pum pum,1,0.0
+ny,1,0.0
+Score More Goals Buying @,1,0.0
+SEA Server,1,0.0
+playing soccer & eating pizza,1,0.0
+planeta H2o,1,0.0
+Saint Paul,1,1.0
+"Saipan, CNMI",1,1.0
+"Sale, England",1,0.0
+"Saline, MI",1,1.0
+"Salt Lake City, UT",1,1.0
+"Salt Lake City, Utah",1,0.0
+"Saltillo, Coahuila de Zaragoza",1,0.0
+planet earth,1,1.0
+"San Antonio-ish, TX",1,1.0
+pittsboro,1,1.0
+San Diego CA,1,1.0
+pissing off antis,1,0.0
+phuket thailand,1,1.0
+philly ,1,0.0
+philly,1,0.0
+"San Diego, Calif.",1,0.0
+"Saint Marys, GA",1,0.0
+Saint Lucia,1,1.0
+"San Diego, Texas.",1,0.0
+please H? ?:??,1,1.0
+probably petting an animal,1,0.0
+"SEATTLE, WA USA",1,1.0
+SEC Country,1,0.0
+probably not home,1,0.0
+"SF Bay Area, California / Greater Phoenix, AZ",1,0.0
+prob turning up with sheen,1,0.0
+SOUTHERN CALIFORNIA DESERT,1,0.0
+"Pompano Beach, FL",1,0.0
+SURROUNDED BY WEEABOOS,1,1.0
+potters bar,1,0.0
+SWinfo@dot.state.al.us,1,1.0
+Sacae Plains,1,1.0
+"portland, oregon",1,1.0
+port matilda pa,1,1.0
+plymouth,1,1.0
+"Sacramento, California",1,0.0
+"Saint Louis, Missouri",1,0.0
+"San Diego, California",1,0.0
+"pettyville, usa",1,0.0
+"Scituate, MA",1,0.0
+on the web,1,0.0
+on the go,1,0.0
+on a catwalk somewhere,1,0.0
+Santiago Bernabeau,1,0.0
+oman muscat al seeb ,1,1.0
+Santiago de Chile,1,1.0
+Santiago de Cmpostela Galicia,1,1.0
+"Santiago,RepÌ¼blica Dominicana",1,1.0
+Santo Domingo Alma Rosa ,1,1.0
+oklahoma,1,0.0
+Sao Paulo,1,1.0
+"Sao Paulo, Brazil",1,0.0
+ohio,1,0.0
+"Saskatchewan, Canada",1,0.0
+SaudI arabia - riyadh ,1,0.0
+Saudi Arabia,1,1.0
+Savage States of America,1,1.0
+"Savannah, GA",1,1.0
+"Santa Monica, CA",1,0.0
+on to the next adventure,1,1.0
+peshawar pakistan ,1,0.0
+"Santa Maria, CA",1,0.0
+"perth, australia ",1,0.0
+"San Francisco , CA",1,1.0
+"peekskill. new york, 10566 ",1,0.0
+San Fransokyo,1,0.0
+San Jose,1,0.0
+paradise,1,1.0
+"San Jose, CA, USA",1,1.0
+oxford,1,0.0
+"San Juan, Puerto Rico",1,0.0
+"San Luis Obispo, CA",1,1.0
+"San Mateo County, CA",1,1.0
+ona block w/ my BOY ??,1,0.0
+"Sandton, South Africa",1,0.0
+"Sanganer, Rajasthan",1,1.0
+"Santa Clara, CA",1,1.0
+on twitter ,1,0.0
+on twitter,1,0.0
+Pon Di Gully,1,0.0
+southern california,1,0.0
+Pomfret/Providence,1,0.0
+www.twitch.tv/PKSparkxx,1,0.0
+Not a U.S resident,1,1.0
+"Not where I want to be, yet",1,0.0
+Nottingham,1,0.0
+y/e/l,1,0.0
+"Nottingham, United Kingdom",1,0.0
+Notts,1,0.0
+y(our) boyfriends legs ,1,0.0
+"Nova Scotia, Canada",1,0.0
+"Novi, MI",1,1.0
+Nowhere Islands/Smash Manor,1,0.0
+xiumin's nonexistent solos,1,1.0
+Numa casa de old yellow bricks,1,1.0
+Numenor,1,0.0
+Nunya,1,0.0
+OES 4th Point. sisSTAR & TI,1,1.0
+OK,1,0.0
+ON,1,1.0
+Not Steven Yeun / AMC.,1,0.0
+Not Of This World,1,1.0
+"Not Los Angeles, Not New York.",1,1.0
+Northern Colorado,1,0.0
+"North Port, FL",1,0.0
+"North Vancouver, BC",1,1.0
+North West England UK,1,1.0
+North West London,1,0.0
+"North-East Region, Singapore",1,0.0
+"Northampton, MA",1,0.0
+Northern California U.S.A.,1,1.0
+Northern Ireland,1,1.0
+"yorkshire
+",1,0.0
+"Northern Kentucky, USA",1,1.0
+{GoT | Modern AU | Lizz},1,0.0
+{Detailed},1,0.0
+"Norwalk, CT",1,0.0
+zboyer@washingtontimes.com,1,1.0
+youtube.com/channel/UCHWTLC9B4ZjUGh7yDlb55Iw,1,0.0
+Norwich,1,1.0
+www.youtube.com?Malkavius2,1,0.0
+www.tmgcgart.com,1,0.0
+North London,1,0.0
+www.facebook.com/stuntfm,1,0.0
+Oldenburg // London,1,0.0
+wherever-the-fuck washington,1,1.0
+On a beach ,1,1.0
+wherever there's netflix,1,0.0
+On the court ,1,0.0
+wherever the $$$ at,1,0.0
+On the toilet having a dump ,1,1.0
+Ondo,1,1.0
+One World,1,1.0
+"Oneonta, NY/ Staten Island, NY",1,1.0
+Online 24/7. Not even kidding.,1,1.0
+where the wild things are,1,0.0
+Ontario,1,1.0
+where I'm supposed to be,1,0.0
+westwestwestwestwestwestwest,1,1.0
+"Ontario, Canada. ",1,0.0
+"Orange County, CA",1,1.0
+whs '17,1,0.0
+Old Blighty,1,1.0
+"Olathe, KS",1,1.0
+Ohio,1,0.0
+"Oakland, Ca",1,0.0
+www.aprylpooley.com,1,0.0
+Oblivion?,1,0.0
+"Ocean City, NJ",1,1.0
+wrapped arnd hyuk's finger,1,1.0
+Official Website,1,0.0
+"Ogba, Lagos, Nigeria",1,1.0
+wny,1,0.0
+"Okuma Town, Fukushima",1,0.0
+with Doflamingo,1,0.0
+"Ojodu,Lagos",1,0.0
+"Okanagan Valley, BC",1,1.0
+Oklahoma,1,0.0
+wisco,1,0.0
+winston-salem north carolina,1,1.0
+"Oklahoma, USA",1,0.0
+North Memphis/Global Citizen,1,0.0
+North Jersey,1,0.0
+Polmont ,1,0.0
+"Newton Centre, Massachusetts",1,1.0
+"ÌÏT: 40.707762,-74.014213",1,0.0
+"New York, NY ",1,0.0
+"ÌÏT: 40.562796,-75.488849",1,1.0
+"ÌÏT: 39.982988,-75.261624",1,1.0
+"New York, United States",1,0.0
+New York. NY,1,0.0
+New Your,1,0.0
+"ÌÏT: 36.142163,-95.979189",1,0.0
+"ÌÏT: 35.223347,-80.827834",1,0.0
+"ÌÏT: 33.209923,-87.545328",1,0.0
+"ÌÏT: 30.307558,-81.403118",1,0.0
+"ÌÏT: 27.9136024,-81.6078532",1,0.0
+Newcastle upon Tyne,1,1.0
+"Newcastle, England",1,0.0
+"Newcastle, England ",1,0.0
+"ÌÏT: 19.123127,72.825133",1,0.0
+"Newcastle, OK",1,0.0
+New York NYC,1,0.0
+"New York City, NY",1,1.0
+"New York City ,NY",1,0.0
+"ÌøåÀå_T: 40.736324,-73.990062",1,0.0
+"New Orleans, Louisiana",1,0.0
+"New South Wales, Australia",1,1.0
+åÊ(?Û¢`?Û¢å«)??,1,0.0
+å¡å¡Midwest Û¢Û¢,1,0.0
+å_å_Los Mina Cityã¢,1,0.0
+å_: ?? ÌÑ ? : ?,1,0.0
+New York - Connecticut,1,0.0
+New York / Worldwide,1,1.0
+"ÌÏT: 41.252426,-96.072013",1,1.0
+"ÌÏT: 6.488400524109015,3.352798039832285",1,1.0
+"ÌÏT: 6.4682,3.18287",1,1.0
+New York 2099,1,0.0
+"ÌÏT: 43.631838,-79.55807",1,0.0
+"ÌÏT: 42.910975,-78.865828",1,0.0
+New York ? ATL,1,0.0
+New York Brooklyn,1,0.0
+"Newport, Wales, UK",1,1.0
+"Newton, NJ 07860",1,0.0
+"North Highlands, CA",1,1.0
+"ÌÏT: 1.50225,103.742992",1,1.0
+North,1,0.0
+North America,1,1.0
+Û¢5Û¢12Û¢14Û¢ | åÈ#SaviourSquadåÇ,1,0.0
+North Cack/919,1,0.0
+Û¢ Views From The Six Û¢,1,0.0
+North Carolina ,1,0.0
+Êwagger!ÌominicanÌ÷,1,1.0
+|| c h i c a g o ||,1,1.0
+|-/,1,0.0
+"North Dartmouth, Massachusetts",1,0.0
+North East / Middlesbrough ,1,0.0
+North East USA,1,1.0
+North East Unsigned Radio,1,0.0
+"North East, England",1,1.0
+"North Ferriby, East Yorkshire",1,0.0
+| CA Û¢ GA  |,1,0.0
+North Hastings Ontario,1,0.0
+"Norman, Oklahoma",1,1.0
+Norf Carolina,1,0.0
+Û¢901Û¢,1,1.0
+Û¢OlderCandyBloomÛ¢,1,0.0
+"ÌÏT: 0.0,0.0",1,0.0
+Niall's arms,1,0.0
+"ÌÏT: -26.695807,27.837865",1,0.0
+Nice places ,1,0.0
+ÛÊÛÊÛÊ,1,1.0
+Nicola Valley,1,1.0
+"Nicoma Park, OK",1,1.0
+Û¢III.XII.MMXIÛ¢,1,1.0
+"Nomad, USA",1,0.0
+"Nigeria, Global",1,1.0
+"Nigeria, WORLDWIDE",1,0.0
+Nirvana,1,0.0
+"Njoro, Kenya",1,1.0
+"No ID, No VOTE!!!",1,1.0
+"Noida, NCR, India",1,1.0
+Û¢FLGÛ¢,1,0.0
+"Orange County, Calif.",1,1.0
+we?it Û¢ ixwin,1,1.0
+"Orange County, NY",1,0.0
+taken by piper curda,1,1.0
+the Dirty D,1,0.0
+"Pensacola, FL",1,1.0
+Peoria,1,1.0
+"Perenjori, WA",1,1.0
+"Perth, Australia",1,1.0
+texasss,1,0.0
+Perthshire ,1,0.0
+texas a&m university,1,0.0
+Peru,1,0.0
+Peshawar,1,0.0
+teh internets,1,0.0
+"Petaluma, CA",1,0.0
+"Peterborough, On",1,1.0
+"Peterborough, Ont.",1,1.0
+"Peterborough, Ontario, Canada",1,1.0
+Phila.,1,0.0
+taking pain like pleasure,1,0.0
+"Pennsylvania, PA",1,0.0
+the Refrigerator ,1,0.0
+the azure cloud,1,0.0
+Passamaquoddy,1,1.0
+the own zone layer ,1,0.0
+the moon,1,0.0
+Paris ,1,1.0
+Paris (France),1,0.0
+"Paris, France",1,1.0
+Paris.,1,0.0
+"Park Ridge, Illinois",1,0.0
+the local dump,1,0.0
+"Penn Hills, PA",1,0.0
+Patra-Greece.,1,1.0
+"Paulton, England",1,0.0
+Pawnee,1,0.0
+the burrow,1,0.0
+Pekanbaruå¡Batam Islandå¡Medan,1,0.0
+"Pelham, AL",1,0.0
+Pembroke NH,1,0.0
+taking bath do not disturb,1,0.0
+"Philadelphia, PA USA",1,1.0
+watford,1,0.0
+"Philadelphia, Pennsylvania",1,0.0
+sri lanka,1,1.0
+"Planet Eyal, Shandral System",1,1.0
+"southwest, Tx",1,0.0
+Planet of da Bathing Apes,1,1.0
+"Plano, IL",1,0.0
+South 37,1,1.0
+"Plano, Texas",1,0.0
+"Plano,TX",1,0.0
+Play For Ryan ??,1,0.0
+south of heaven ,1,1.0
+Playa,1,1.0
+"Playa del Carmen, Mexico",1,1.0
+"Pleasanton, CA",1,0.0
+Pluto,1,0.0
+"Pocatello, ID",1,1.0
+"Pocatello, Idaho",1,0.0
+Poconos,1,0.0
+Plain O' Texas,1,1.0
+Pittsburgh PA,1,0.0
+Pittsburgh ,1,0.0
+swindon,1,0.0
+"Philadelphia, Pennsylvania USA",1,0.0
+taco bell,1,1.0
+Philippines ,1,1.0
+sÌ£o luis,1,0.0
+Phoenix Az,1,1.0
+"sydney, australia",1,0.0
+"Phoenix, Arizona, USA",1,1.0
+sweden,1,0.0
+st.louis county missouri ,1,0.0
+Photo : Blue Mountains ,1,0.0
+"Piedmont Area, North Carolina",1,1.0
+"Piedmont Triad, NC",1,1.0
+statesboro/vidalia,1,0.0
+staggering on tenement roofs,1,0.0
+"Pig Symbol, Alabama",1,1.0
+"Pioneer Village, KY",1,1.0
+the road to success,1,1.0
+Paranaque City,1,0.0
+"Paradise, NV",1,0.0
+Paradise City,1,0.0
+"Ottawa, Ontario",1,1.0
+"Ottawa,Ontario Canada",1,0.0
+twitch.tv/naturalemblem26,1,0.0
+Our Empire State,1,1.0
+turner fenton,1,0.0
+"Outside The Matrix, I Think.",1,1.0
+Over the Moon...,1,1.0
+"Overland Park, KS",1,1.0
+Overton NV,1,0.0
+Own planet!!,1,1.0
+tripoli international airport,1,0.0
+Oxford / bristol,1,0.0
+"Oxford, MS",1,1.0
+"Oxford, OH",1,0.0
+tri state,1,1.0
+"PA, USA",1,1.0
+PA.USA,1,0.0
+"Otsego, MI",1,0.0
+"Oslo, Norway",1,1.0
+Oshawa/Toronto,1,1.0
+victoria mozÌ£o ,1,0.0
+"Orbost, Victoria, Australia",1,1.0
+"washington, d.c.",1,0.0
+Oregon and Washington,1,0.0
+walking the tightrope,1,0.0
+Orlando,1,0.0
+Orlando ,1,0.0
+w. Nykae ,1,0.0
+"Orlando,FL  USA",1,0.0
+"Oshawa, Canada",1,0.0
+us-east-1a,1,0.0
+"Orlando/Cocoa Beach, FL",1,0.0
+Orm,1,0.0
+"Ormond By The Sea, FL",1,1.0
+us,1,1.0
+urÌ£nus,1,0.0
+under the blanket,1,0.0
+PARACHUTE,1,0.0
+PDX,1,1.0
+PG Chillin!,1,1.0
+"Palm Desert, CA",1,0.0
+"Palermo, Sicily",1,1.0
+Palestine ,1,0.0
+Palestine Texas,1,1.0
+todaysbigstock.com,1,0.0
+timeline kamu,1,1.0
+"Palm Bay, FL (Kissimmee)",1,1.0
+"Palm Beach County, FL",1,1.0
+"Palma, Islas Baleares",1,1.0
+tokyo,1,0.0
+they/them,1,0.0
+"Palmyra, NJ",1,0.0
+they/her,1,0.0
+"the void, U.S.A",1,1.0
+Paname City,1,0.0
+PanamÌÁ ,1,0.0
+"Paonia, Colorado ",1,1.0
+"Pakistan, Islamabad",1,1.0
+toledo,1,0.0
+"PG County, MD",1,0.0
+toronto,1,0.0
+travelling to tae's pants,1,0.0
+PH,1,0.0
+trapped in America,1,1.0
+PLFD cuh..,1,0.0
+"toronto, ontario",1,1.0
+toronto Û¢ dallas,1,0.0
+POFFIN,1,0.0
+PROUD INDIANS,1,1.0
+"Paducah, KY",1,1.0
+PROV,1,0.0
+"PS4, now stop asking",1,0.0
+too far,1,0.0
+PSA Nursing ,1,0.0
+PSN: Pipbois ,1,0.0
+PURPLE BOOTH STUDIOã¢,1,0.0
+Pacific Northwest,1,1.0
+Soul Somalia/Body Montreal,1,0.0
+"South West, England",1,1.0
+my house,1,0.0
+WORLD,1,0.0
+WORLD WIDE,1,0.0
+WORLDWI$E ,1,0.0
+WORLDWIDE!,1,0.0
+WORLDWIDE-BOSTON,1,0.0
+eritrean,1,0.0
+"WV, love the blue and gold",1,1.0
+Waco TX,1,1.0
+"Waco, Texas",1,0.0
+Waddesdon,1,1.0
+"Wahpeton, ND",1,0.0
+"Waialua, Hawaii",1,0.0
+"Wailuku, Maui",1,1.0
+Wakanda,1,0.0
+Wakefield MA,1,1.0
+"Wakefield, West Yorkshire",1,0.0
+en el pais de los arrechos,1,0.0
+"Wales, United Kingdom",1,0.0
+everydaynigerian@gmail.com,1,1.0
+WORDLDWIDE,1,0.0
+followurDREAMS(& my instagram),1,0.0
+WESTSIDE OF PHILLY 7? BLOCK??,1,0.0
+Vineyard,1,1.0
+fluffy cloud,1,0.0
+fl,1,0.0
+"Virginia, United States",1,1.0
+facebook.com/tradcatknights,1,1.0
+Virgo Supercluster,1,1.0
+Visit our  dedicated website @,1,1.0
+"Vista, CA",1,1.0
+Viterbo BFA Acting '18,1,1.0
+VitÌ_ria (ES),1,0.0
+"Voorhees, NJ",1,1.0
+VÌ_a LÌÁctea,1,0.0
+"VÌ_sterÌ´s, Sweden",1,0.0
+W.I.T.S Academy,1,0.0
+everywhere ,1,1.0
+"WAISTDEEP, TX",1,0.0
+"WASHINGTON,DC",1,0.0
+"Walker County, Alabama",1,1.0
+"Walthamstow, London",1,0.0
+Wanderlust,1,0.0
+emily | helen | shelley ,1,0.0
+"Washington, DC 20009",1,0.0
+"Washington, DC NATIVE",1,0.0
+"Washington, Krasnodar (Russia)",1,1.0
+dreamy lake,1,0.0
+dorito land,1,0.0
+"Wasington, DC",1,1.0
+Watch Those Videos -,1,0.0
+Waterford MI,1,0.0
+dope show,1,0.0
+Waterfront,1,0.0
+"Waterloo, ON",1,0.0
+"Waterloo, Ont",1,1.0
+"Watertown, Mass.",1,1.0
+don't run,1,0.0
+"Waukesha, WI",1,0.0
+"Wausau, Wisconsin",1,0.0
+"Waverly, IA",1,0.0
+dubai ,1,1.0
+dublin ,1,0.0
+ducked off . . . ,1,0.0
+"Warwick, RI @Dollarocracy also",1,1.0
+elizabeth king,1,1.0
+"Wandsworth, London",1,0.0
+Warm Heart Of Africa,1,0.0
+"Warrandyte, Australia",1,1.0
+Warri,1,1.0
+Warsaw,1,0.0
+Warszawa,1,1.0
+elena's bed // info on link,1,0.0
+dundalk ireland,1,0.0
+eating strawberry shitsickles,1,0.0
+"Washington DC / Nantes, France",1,1.0
+"eBooks, North America",1,0.0
+Washington state,1,1.0
+eARth 3,1,0.0
+"Washington, D.C. ",1,1.0
+"Washington, D.C., area",1,0.0
+Vilnius,1,0.0
+Viejo,1,0.0
+We're All Mad Here,1,0.0
+hkXfYMhEx,1,1.0
+Unknown ,1,0.0
+high way 99,1,0.0
+Unnamed City,1,0.0
+hey Georgia,1,0.0
+Up a hill,1,0.0
+hertfordshire.,1,1.0
+"Upper St Clair, PA",1,0.0
+"Upper manhattan, New York",1,1.0
+"Uppsala, Sweden",1,0.0
+heccfidmss@gmail.com,1,0.0
+"heart of darkness, unholy ?",1,0.0
+he/him or she/her (ask),1,0.0
+Upstate New York,1,0.0
+Uruguay / Westeros / Gallifrey,1,0.0
+Use #TMW in tweets get #RT,1,0.0
+have car; will travel,1,0.0
+"Utah, USA",1,0.0
+highlands&slands scotland,1,0.0
+University of Toronto,1,0.0
+Vidalia GA,1,0.0
+University of South Florida,1,0.0
+USA/SO FLORIDA via BROOKLYN NY,1,0.0
+USAoV,1,0.0
+Uganda,1,0.0
+houstn,1,0.0
+honeymoon avenue,1,0.0
+Ukraine and Ireland,1,1.0
+Under Santa Barbara Skies,1,1.0
+Unite. Bless. Wallahi ,1,0.0
+United Hoods of the Globe,1,0.0
+"United Kingdom,Fraserburgh",1,0.0
+home ,1,0.0
+hollywoodland ,1,0.0
+United States where it's warm,1,0.0
+Unites States,1,1.0
+"University Heights, Ohio",1,0.0
+University of Chicago,1,0.0
+University of Limerick,1,1.0
+Utica NY,1,0.0
+hatena bookmark,1,0.0
+"Uyo, Akwa Ibom State, Nigeria",1,0.0
+"V-RP @OZRP_ ?MV, AU, R18+?",1,0.0
+Varanasi,1,1.0
+Varies ,1,0.0
+germany,1,0.0
+Ventura,1,0.0
+"Ventura, Ca",1,0.0
+"Vermont, USA",1,0.0
+"Vero Beach , FL",1,0.0
+garowe puntland somalia,1,1.0
+"Very SW CA, USA....Draenor",1,1.0
+gamertag: bexrayandvav ,1,1.0
+"gaffney, sc ",1,0.0
+"Victoria, BC  Canada",1,0.0
+fujo garbage heaven ,1,0.0
+"Victoria, Canada",1,0.0
+"Victoria, Tx.",1,1.0
+front row at a show,1,0.0
+"Victorville, CA",1,0.0
+"Vancouver, Colombie-Britannique",1,0.0
+"Vancouver, Canada",1,0.0
+glasgow,1,1.0
+"Van Buren, MO",1,0.0
+VCU,1,0.0
+VISIT MY YOUTUBE CHANNEL.,1,0.0
+"VONT ISLAND, LAGOS",1,0.0
+"Va Beach, Virginia",1,1.0
+Vail Valley,1,0.0
+Valle Del Sol,1,0.0
+Valparaiso ,1,0.0
+Vancouver,1,1.0
+global,1,1.0
+Vancouver (HQ) and worldwide,1,1.0
+h+l,1,0.0
+Vancouver Canada,1,0.0
+guaravitas,1,0.0
+"Vancouver, BC, Canada",1,0.0
+"Vancouver, BC.",1,0.0
+"golborne, north west england.",1,0.0
+We are global!,1,1.0
+don't buy the s*n,1,0.0
+South Asia,1,1.0
+but i love kaylen ??,1,1.0
+buffalo / madrid / granada,1,0.0
+Yobe State,1,1.0
+buenos aires argentina,1,0.0
+Yooooooo,1,0.0
+You're not 19 forever   ,1,0.0
+"Youngstown, OH",1,1.0
+Your Conversation,1,0.0
+btwn a rock and a hard place,1,0.0
+Your Sister's Bedroom,1,1.0
+Your Six,1,1.0
+Your notifications,1,0.0
+"brooklyn, NYC",1,0.0
+"brisbane, australia",1,0.0
+"Yuba City, CA",1,0.0
+"Yulee, FL",1,0.0
+Yuuko-san's shop,1,1.0
+boston,1,0.0
+buhh,1,0.0
+Ylisse,1,0.0
+Worldwide - Global,1,1.0
+by a piano probably. ,1,1.0
+Wrex,1,0.0
+Wrigley Field,1,0.0
+"Wynne, AR",1,0.0
+call me peach or sam lo,1,0.0
+california | oregon | peru |,1,0.0
+"Wyoming, MI (Grand Rapids)",1,0.0
+california mermaid ? ,1,0.0
+california,1,0.0
+"Xi'an, China",1,1.0
+YA MOTHA BED,1,1.0
+"Yadkinville, NC",1,0.0
+"calgary,ab",1,1.0
+"Yeezy Taught Me , NV",1,0.0
+Yellowknife,1,1.0
+ca(NADA) ,1,1.0
+"Yellowknife, NT",1,1.0
+Yewa zone,1,0.0
+Zac Newsome loves me,1,0.0
+"Zeerust, South Africa",1,0.0
+Zero Branco,1,0.0
+Ziam af ,1,1.0
+"antioch, california",1,0.0
+between ideas & 3-5pm AEST,1,0.0
+antoine fisher ,1,0.0
+belleville,1,0.0
+at my home,1,1.0
+atlanta,1,0.0
+beijing .China,1,0.0
+atx,1,0.0
+beacon hills ,1,1.0
+bangalore,1,1.0
+austin tx,1,0.0
+"austin, texas",1,1.0
+ava,1,0.0
+ayr,1,0.0
+az,1,1.0
+back in japan ??????????,1,0.0
+bahstun/porta reeko,1,0.0
+amsterdayum 120615 062415,1,0.0
+am everywhere,1,0.0
+all over the world,1,0.0
+a botanical garden probably,1,0.0
+Zimbabwe,1,1.0
+[ Blonde Bi Fry. ],1,0.0
+blackfalds.,1,0.0
+[ kate + they/them + infp-t ],1,0.0
+[@blackparavde is my frankie],1,0.0
+[Gia.] | #KardashianEmpire,1,0.0
+[marvelÛ¢dragon ageÛ¢wicdiv],1,0.0
+a box,1,0.0
+"alberta, canada",1,1.0
+bk. ,1,0.0
+"a feminist, modernist hag.",1,1.0
+a van down by the river,1,0.0
+access to njh/5 and cth/4,1,0.0
+africa,1,1.0
+aggressive cannoli eater ,1,0.0
+big boy Û¢ 0802,1,0.0
+Worldwide.,1,0.0
+canberra,1,0.0
+"Webster, TX",1,1.0
+"West Vancouver, B.C.",1,0.0
+West Wales,1,1.0
+"WestEnd, Puritan Ave ",1,0.0
+Westchester,1,0.0
+Westerland,1,1.0
+Western New York,1,1.0
+Western Washington,1,0.0
+Weston super mare,1,0.0
+Weyburn,1,1.0
+Where I Need To Be,1,0.0
+Where ever i please,1,0.0
+Where the money at,1,0.0
+Wherever I'm needed,1,0.0
+Wherever I'm sent,1,0.0
+"Whippany, NJ",1,0.0
+"Whitby, ON",1,0.0
+"White Plains, NY",1,0.0
+"Whiterun, Skyrim",1,1.0
+death star,1,0.0
+"West Richland, WA",1,0.0
+WorldWideWeb,1,1.0
+"West Palm Beach, Florida",1,1.0
+Wellington,1,0.0
+"Wellington, New Zealand",1,0.0
+Welt,1,1.0
+Wema building,1,0.0
+dmv ?? fashion school @ KSU. ,1,0.0
+West Africa,1,1.0
+"West Bank, Gaza Strip",1,1.0
+"di langit 7 bidadari (^,^ )",1,1.0
+"West Chester, PA",1,0.0
+denver colorado,1,0.0
+"West Coast, Cali USA",1,0.0
+"West Coast, USA",1,0.0
+denmark,1,1.0
+West Hollywood,1,0.0
+"West Hollywood, CA",1,1.0
+"West Lancashire, UK.",1,0.0
+West Midlands,1,1.0
+Whole World ,1,1.0
+Why should you know?,1,1.0
+"Wilbraham, MA",1,1.0
+Wild Wild Web,1,1.0
+"cody, austin follows ?*?",1,1.0
+Wolverhampton,1,0.0
+"cleveland, oh",1,1.0
+Wolverhampton/Brum/Jersey,1,1.0
+WonderlandÛÓ ?????? ???? ??????,1,0.0
+"Wood Buffalo, Alberta",1,0.0
+"Woodcreek HS, Roseville, CA",1,0.0
+cigarknub@gmail.com,1,0.0
+chillin at ceder rapids,1,0.0
+chicago,1,1.0
+cereal aisle #17:i4,1,1.0
+Woosley,1,0.0
+"Worcester, MA",1,1.0
+central chazifornia,1,0.0
+World Wide!!,1,1.0
+World news,1,1.0
+cedar rapids ia,1,0.0
+cognitive dissonance town,1,0.0
+Wolmers Trust School for Boys ,1,1.0
+"Wisconsin, USA",1,1.0
+Wiltshire,1,1.0
+"Wildomar, CA",1,0.0
+"Williamsbridge, Bronx, New Yor",1,1.0
+"Williamsburg, VA",1,0.0
+"Williamstown, VT",1,0.0
+"Wilmington, DE",1,0.0
+"Wilmington, Delaware",1,1.0
+cyprus,1,0.0
+"Windsor,Ontario",1,0.0
+columbus ohio,1,0.0
+cuba,1,1.0
+cork,1,0.0
+"Winnipeg, MB, Canada",1,0.0
+contactSimpleNews@gmail.com,1,1.0
+"Winston Salem, North Carolina",1,0.0
+come here in 20 minutes for an ass kicking,1,0.0
+"Winter Park, Colorado",1,0.0
+"USA, WA",1,0.0
+"USA, North Dakota",1,1.0
+"USA, Haiti, Nepal",1,1.0
+lowestoft,1,0.0
+Sydney & Worldwide,1,0.0
+lost in my thoughts,1,1.0
+lost in history,1,0.0
+"Sydney, NSW",1,1.0
+los angeles,1,1.0
+london town..,1,0.0
+"Sylacauga, Alabama",1,1.0
+london essex england uk,1,0.0
+london / st catharines ?,1,0.0
+ljp/4,1,0.0
+"SÌ£o Paulo SP,  Brasil",1,1.0
+"SÌ£o Paulo, Brasil",1,1.0
+T E X A S | wwat 8.24.14,1,0.0
+T-Ville,1,1.0
+livin life in the 610,1,1.0
+livin in a plastic world,1,1.0
+THANJAVUR,1,1.0
+"louisville, kentucky",1,0.0
+"Swindon,England ",1,0.0
+"Sumter, SC",1,0.0
+lrhcthband;four - bournemouth,1,0.0
+Sunny South florida ,1,0.0
+"Sunnyvale, CA",1,0.0
+"Sunrise Manor, NV",1,1.0
+"manchester, uk.",1,0.0
+"Sunshine Coast, Queensland",1,0.0
+manaus,1,1.0
+Surabaya,1,1.0
+Surrey & Manchester,1,0.0
+"Surry Hills, Sydney",1,0.0
+"Surulere Lagos,Home Of Swagg",1,1.0
+"Sutton, London UK",1,0.0
+"Suva, Fiji Islands.",1,0.0
+Swag Francisco,1,0.0
+Swan River,1,0.0
+mainly California,1,1.0
+"m3, k, a, d",1,0.0
+lugo,1,1.0
+THE 6IX,1,0.0
+liverpool ,1,0.0
+THE WORLD T.G.G / M.M.M ,1,0.0
+TN,1,0.0
+Telangana,1,1.0
+"Tema,Accra",1,1.0
+"Temecula, CA",1,1.0
+Temporary Towers,1,0.0
+lagos. Unilag,1,1.0
+"Tennessee, USA",1,1.0
+Tennessee/Gallifrey,1,1.0
+"Terlingua, Texas",1,1.0
+"Terre Haute, IN",1,0.0
+lagos nigeria,1,1.0
+labyrinthia,1,0.0
+Texas ,1,0.0
+Texas af,1,1.0
+"labuan, malaysia",1,1.0
+Texas-USAã¢ ?,1,1.0
+kisumu,1,0.0
+Thailand Malaysia Indonesia ,1,1.0
+"Ted&Qz Inc, Ireland, Europe",1,0.0
+TechFish ,1,0.0
+lakewood colorado,1,0.0
+"Tama, Iowa",1,1.0
+liaÛ¢daniÛ¢laura,1,0.0
+"TV5, Philippines",1,1.0
+leyland,1,0.0
+"Tacoma,Washington",1,0.0
+Tafekop Ga-Matsepe,1,1.0
+Tallahassee Florida,1,1.0
+"Tallahassee, FL",1,0.0
+Tampa,1,0.0
+Team Slytherin,1,0.0
+lesa * she/her,1,0.0
+lee london,1,1.0
+"Tampa, Fl",1,1.0
+"Tampa-St. Petersburg, FL",1,1.0
+Tamworth,1,0.0
+Tarragona,1,0.0
+laying on the bass,1,0.0
+"Sunbury, Ohio",1,0.0
+Suitland,1,0.0
+houston,1,1.0
+Spain,1,1.0
+mnl,1,0.0
+"Spain but Opa-Locka, FL",1,1.0
+missouri USA,1,1.0
+mind ya business,1,1.0
+Speaking the Truth in Love,1,0.0
+Spinning through time.,1,0.0
+"Spokane, Washington",1,1.0
+"Spokane, Washington 99206",1,0.0
+"Spring Grove, IL",1,0.0
+Spring Tx,1,0.0
+Spying on your thoughts,1,1.0
+"Srinagar,Kashmir",1,1.0
+"St Austell, Cornwall",1,0.0
+milky way,1,0.0
+St Joseph de Beauce,1,1.0
+"St Louis, MO",1,1.0
+midwest,1,0.0
+Spain - China - Latin America.,1,0.0
+Southern Maine,1,1.0
+"Suginami-ku, Tokyo, Japan",1,1.0
+moss chamber b,1,0.0
+"South Bloomfield, OH",1,1.0
+South Carolina,1,1.0
+"South Carolina, USA",1,0.0
+my deli,1,0.0
+South Central Wales,1,0.0
+South Florida,1,0.0
+South Korea GMT+9,1,0.0
+"South Pasadena, CA",1,0.0
+music.,1,1.0
+bajaur,1,1.0
+South africa,1,0.0
+South east of U.K,1,0.0
+South of D.C.,1,1.0
+"South, England",1,1.0
+mpls. ,1,0.0
+SouthEast Asia,1,1.0
+Southern Califorina,1,0.0
+St PetersburgFL,1,0.0
+middle eastern palace,1,0.0
+"St. Catharines, Ontario",1,0.0
+"St. John's, NL, Canada",1,1.0
+mexico,1,0.0
+melbourne,1,1.0
+Stay Fly?,1,1.0
+marysville ca ,1,0.0
+Stay Tuned ;) ,1,1.0
+Still. ??S.A.N.D.O.S??,1,0.0
+Stockton on tees Teesside UK,1,1.0
+Storybrooke ,1,0.0
+Storybrooke / The Moors,1,0.0
+Stowmarket,1,1.0
+"Stratford, CT",1,1.0
+maryland,1,1.0
+Studio,1,1.0
+marvel | books | hp | tmr,1,0.0
+"Suburban Detroit, Michigan",1,1.0
+"Sugar Land, TX",1,0.0
+"Sugarhouse, UT",1,0.0
+Statute Of Limitations_,1,0.0
+Stateless Global Citizen,1,1.0
+State of Georgia,1,0.0
+"St.Cloud, MN",1,0.0
+"St. Joseph, Minnesota",1,1.0
+St. Louis,1,1.0
+St. Louis Mo.,1,0.0
+miami x dallas ,1,0.0
+"St. Louis, Missouri",1,0.0
+"St. Louis, Mo",1,0.0
+St. Patrick's Purgatory,1,1.0
+Stage with Trey Songz,1,0.0
+State of Dreaming,1,0.0
+"Stalybridge, Tameside",1,1.0
+Stamford & Cork (& Shropshire),1,1.0
+Stanford University,1,0.0
+Starling City,1,0.0
+miami,1,1.0
+"State College, Pa",1,1.0
+mi,1,0.0
+Thane,1,1.0
+The 5th Dimension. ,1,1.0
+The ?? below ???,1,1.0
+Travelling around the world ,1,0.0
+in Dimitri's arms,1,0.0
+"Tri-Cities, Wash.",1,1.0
+Tring ,1,1.0
+"Tring, UK",1,0.0
+im definitely taller than you.,1,1.0
+illinois. united state ,1,0.0
+"Trinity, Bailiwick of Jersey",1,1.0
+"Tripsburg, ms.",1,0.0
+Trost District,1,0.0
+"Trumann, Arkansas",1,0.0
+ill yorker,1,1.0
+"Tucson, AZ",1,1.0
+"Tucson, Arizona ",1,1.0
+"Tucson, Az",1,1.0
+"Tulalip, Washington",1,0.0
+"Tulsa, OK",1,1.0
+ilford,1,0.0
+"Traverse City, MI",1,1.0
+Trapped in my Conscience ,1,0.0
+"kissimmee,fl.",1,0.0
+in my head,1,0.0
+"Topeka, KS",1,0.0
+"Tornado Alley, USA ",1,1.0
+instagram: bribriony,1,0.0
+instagram- Chloe_Bellx,1,0.0
+infj ,1,1.0
+"Toronto, Bob-Lo, Miami Beach",1,1.0
+"Toronto, ON",1,1.0
+"Toronto, ON, Canada",1,0.0
+indiana,1,0.0
+"Toronto, Worldwide ",1,0.0
+Toronto-Citizen of Canada & US,1,1.0
+"Torrance, CA",1,0.0
+in my own personal hell (:,1,0.0
+Torry Alvarez love forever ? ?,1,0.0
+Trackside California,1,0.0
+Tractor land aka Bristol,1,0.0
+Trancy Manor,1,0.0
+Tunbridge Wells,1,0.0
+icon: cheese3d,1,0.0
+Turkmenistan,1,0.0
+Twitter Lockout in progress,1,0.0
+"UK, Republic of Ireland and Australia",1,0.0
+"UK,singer,songwriter,?2 act",1,0.0
+UPTOWN ,1,1.0
+i luv raquel,1,1.0
+i love you zayn,1,0.0
+"US, PA",1,1.0
+US-PR,1,0.0
+"US: 44.414510,8.942499",1,1.0
+i love the smurfs 2,1,0.0
+"i got 1/13 menpa replies, omg",1,0.0
+USA ,1,0.0
+i beg vines sorry ,1,1.0
+"USA , AZ",1,0.0
+hyderabad,1,1.0
+USA - Canada - Europe - Asia,1,1.0
+"USA, Alabama",1,1.0
+http://twitch.tv/jcmonkey,1,1.0
+UK Great Britain ,1,0.0
+UK & Ibiza,1,0.0
+UK  & Germany,1,1.0
+U.S.,1,1.0
+Twitterville,1,1.0
+Two Up Two Down,1,0.0
+"Tyler, TX",1,0.0
+TÌÁchira - Venezuela,1,1.0
+iamdigitalent.com,1,1.0
+U.S,1,0.0
+iTunes - RSS,1,1.0
+U.S. Northern Virginia,1,1.0
+i'm a Citizen of the World,1,1.0
+"iPhone: 33.104393,-96.628624",1,0.0
+U.S.A and Canada,1,0.0
+U.S.A.   FEMA Region 5,1,0.0
+U.S.A. - Global Members Site,1,1.0
+"UAE,Sharjah/ AbuDhabi",1,0.0
+UGA '15 Alumnus - Economics ,1,0.0
+"iPhone: -27.499212,153.011072",1,1.0
+Top secret bunker ,1,1.0
+israel,1,1.0
+Top Secret,1,1.0
+The Pumpkin Carriage of Dreams,1,1.0
+"The Kingdom of Fife, Scotland",1,0.0
+khartoum sudan,1,0.0
+The Land of MAss Stupidity,1,1.0
+The Low-Cal Calzone Zone,1,1.0
+The Main ,1,0.0
+khanna,1,1.0
+The Meadow,1,0.0
+The Memesphere,1,0.0
+kenya,1,0.0
+The Multiverse,1,0.0
+keli x,1,0.0
+"kediri,,jawa timur",1,0.0
+The North,1,0.0
+kansas,1,0.0
+The Orwellion police-state,1,0.0
+The P (South Philly),1,1.0
+The Peach State,1,1.0
+The Jewfnited State,1,0.0
+The Internetz,1,0.0
+The Internet & NYC,1,0.0
+"The Epicenter, and Beyond",1,0.0
+The Canopy Kingdom,1,0.0
+The Circle of Life,1,0.0
+"The Citadel, Oldtown, Westeros",1,0.0
+The D,1,1.0
+The Desert,1,1.0
+The Desert of the Real,1,1.0
+The Empire/First Order,1,0.0
+The Forever Girl,1,0.0
+The Internet,1,1.0
+The Globe,1,1.0
+The Great State of Maine ,1,1.0
+The Great State of Texas,1,1.0
+The Grey Area,1,1.0
+"The Hammock, FL, USA",1,1.0
+The Harbinger.,1,0.0
+The Howling,1,0.0
+The Pig Sty,1,1.0
+"The Sanctuary Network, Rome",1,0.0
+TonyJ@Centralizedhockey.com,1,1.0
+The Shady Hyenatown of Finland,1,0.0
+The shores of Lake Kilby,1,0.0
+The windy plains of Denver,1,0.0
+"Thibodaux, LA",1,0.0
+Third rock from the Sun,1,0.0
+This Is Paradise. Relax. ,1,1.0
+Thornton  Colorado,1,0.0
+Thrissur,1,1.0
+"Timaru District, New Zealand",1,1.0
+Tipperary (Long Way) ,1,1.0
+Tips on my blog at,1,0.0
+jayankondacholapuram.tamilnadu,1,1.0
+Tn,1,0.0
+japon,1,0.0
+italy,1,1.0
+it's a journey ,1,0.0
+Tokyo & Osaka,1,1.0
+"Toledo, OH",1,0.0
+The land of New Jersey. ,1,1.0
+The green and pleasant land.,1,1.0
+The dark,1,0.0
+The Waystone Inn,1,0.0
+The Shire,1,0.0
+The South & WestCoast ,1,0.0
+The Sun's Corona,1,0.0
+The TARDIS,1,0.0
+The Triskelion,1,0.0
+The UK,1,0.0
+kano,1,1.0
+justin & ari follow || tvd,1,0.0
+jeddah | Khartoum,1,0.0
+The Web,1,0.0
+The Weird Part of Wonderland,1,1.0
+The Windy City,1,1.0
+The Wood,1,0.0
+The World,1,1.0
+The barn,1,0.0
+jersey ,1,0.0
+  ,1,1.0
+Mid West,1,0.0
+"New Mexico, USA",1,0.0
+"Carol Stream, Illinois",1,1.0
+Canterbury kent,1,0.0
+Cape Cod,1,1.0
+"Cape Cod, Massachusetts USA",1,1.0
+"Cape Neddick, ME",1,1.0
+"Cape Town, Khayelitsha",1,0.0
+"Caracas, Venezuela.",1,1.0
+"Cardiff, UK",1,1.0
+"Cardiff, Wales",1,0.0
+Caribbean,1,1.0
+Carregado,1,0.0
+Canadian bread,1,0.0
+Carry On Jutta!!!,1,0.0
+Carterville,1,1.0
+Cascadia,1,0.0
+"Caserta-Roma, Italy ",1,1.0
+Cassadaga Florida,1,1.0
+"Castaic, CA",1,0.0
+"Catalonia, Spain",1,0.0
+Catskills,1,1.0
+"Cavite, Philippines",1,0.0
+"Canberra, Australian Capital Territory",1,1.0
+Canada Eh! ,1,0.0
+COMING SOON,1,0.0
+Calgary/Airdrie/RedDeer/AB,1,0.0
+"CPT & JHB, South Africa",1,0.0
+CT & NY,1,0.0
+CT ? NYC,1,0.0
+"CT, USA",1,0.0
+"Cairo, Egypt",1,1.0
+"Cairo, Egypt.",1,0.0
+"Calgary, Alberta, Canada",1,1.0
+"Calgary, Canada",1,1.0
+"Calgary,AB, Canada",1,1.0
+California or Colorado,1,0.0
+Canada BC,1,0.0
+CamaquÌ£/Pelotas,1,0.0
+"Camberwell, Melbourne",1,1.0
+"Cambridge, MA",1,0.0
+"Cambridge, Massachusetts",1,0.0
+"Cambridge, Massachusetts, U.S.",1,0.0
+Cameroon,1,1.0
+Campinas Sp,1,0.0
+Campo Grande-MS,1,1.0
+Canada ,1,0.0
+"Cedar Island, Clinton CT 06413",1,1.0
+Center for Domestic Preparedness,1,1.0
+"Central Coast, California",1,1.0
+"Chicago, Il",1,0.0
+Chester ,1,0.0
+Chester Football Club,1,0.0
+"Chester, IL",1,0.0
+Chicago - Lake Buena Vista,1,0.0
+Chicago Area,1,0.0
+"Chicago Heights, IL",1,0.0
+Chicago IL,1,1.0
+"Chicago, IL ",1,1.0
+"Chicago, IL 60607",1,1.0
+"Chicago, but Philly is home",1,1.0
+Central Florida,1,1.0
+"Chicago,Illinois",1,0.0
+ChicagoRObotz,1,0.0
+Chicagoland,1,1.0
+Chicopee MA,1,0.0
+Chicora ?? Oakland,1,0.0
+"Chippenham/Bath, UK",1,0.0
+"Chiswick, London",1,0.0
+"Chiyoda Ward, Tokyo",1,0.0
+"Chorley, Lancashire, UK",1,0.0
+Chester,1,0.0
+Cheshire. London. #allover,1,0.0
+Chennai,1,1.0
+Chattanooga TN,1,1.0
+Central Illinois,1,1.0
+Centurion ,1,1.0
+"Chamblee, Georgia",1,1.0
+"Chandler, AZ",1,1.0
+"Chapel Hill, NC",1,1.0
+Chappaqua NY and Redlands CA,1,1.0
+Charleston S.C.,1,1.0
+"Charleston, IL",1,0.0
+"Charleston, SC",1,1.0
+"Charleston, WV",1,0.0
+Charlotte ,1,1.0
+Charlotte County Florida,1,1.0
+"Charlotte, N.C.",1,1.0
+"Charlotte, NC | KÌ¦ln, NRW",1,1.0
+"Charlotte, North Carolina",1,0.0
+Charlottetown,1,0.0
+Charter Member of the VRWC,1,1.0
+Chasing My Dreams w/Jass??,1,0.0
+"Chatham, IL",1,1.0
+CORNFIELDS,1,1.0
+CLVLND,1,0.0
+"Christiana,Tennessee",1,0.0
+"Books Published, USA",1,0.0
+"Bloomington, IN",1,0.0
+"Bloomington, Indiana",1,1.0
+"BodÌü, Norge",1,0.0
+"Bokaro Steel City, Jharkhand",1,0.0
+Boksburg,1,0.0
+"Bolivar, MO",1,0.0
+"Bolton & Tewkesbury, UK",1,1.0
+Bombardment Bay,1,1.0
+Bon Temps Louisiana,1,0.0
+Born in Baltimore Living in PA,1,0.0
+Bleak House,1,1.0
+Bossland,1,0.0
+Boston Û¢ Cape Cod ?,1,1.0
+"Boston, Massachusetts",1,1.0
+Boston/Montreal ,1,0.0
+Boulder,1,0.0
+"Boulder, CO",1,1.0
+"Bournemouth, Dorset, UK",1,1.0
+"Bow, NH",1,0.0
+"Bozeman, Montana",1,0.0
+Blogland,1,0.0
+"Blackpool, England, UK.",1,0.0
+CLT,1,0.0
+Bikini bottom,1,0.0
+"Benton City, Washington",1,1.0
+"Berlin, NY, DC, Malibu",1,1.0
+Beside Basketball,1,1.0
+BestCoast,1,0.0
+Between Dire and Radiant,1,0.0
+Between the worlds ,1,0.0
+"Bhopal, Madhya Pradesh, India.",1,1.0
+Bhubneshwar,1,0.0
+Big NorthEast Litter Box,1,0.0
+"Biloxi, Mississippi",1,0.0
+"Black Canyon New River, AZ",1,1.0
+"Birdland, New Meridian, FD",1,0.0
+Birmingham & Bristol,1,1.0
+Birmingham UK,1,1.0
+Birmingham and the Marches,1,1.0
+"Birmingham, UK",1,1.0
+"Birmingham, United Kingdom",1,1.0
+"Bishops Lydeard, England",1,0.0
+"Bishops Stortford, England",1,1.0
+"BiÌ±an,Laguna",1,1.0
+"Brackley Beach, PE, Canada",1,0.0
+Bracknell,1,1.0
+"Brasil, Fortaleza ce",1,0.0
+"Burbank,CA",1,1.0
+"Broomfield, CO",1,1.0
+BrowardCounty // Florida ,1,0.0
+Brum/Lestah ,1,0.0
+Bucharest,1,1.0
+"Bucks County, Pa",1,0.0
+Buffalo NY,1,1.0
+Buffalo/DC,1,1.0
+Bug Forest,1,0.0
+Bulgaria,1,0.0
+"Burlington, VT",1,1.0
+"Brasil,SP",1,0.0
+Buscame EL tu Melte,1,1.0
+Bushkill pa,1,0.0
+"Buxton, Venice, and Nottingham",1,1.0
+CA ??DC,1,0.0
+"CA, AZ & NV",1,0.0
+"CAMARILLO, CA",1,1.0
+CCH ,1,0.0
+CHICAGO,1,1.0
+CHICAGO (312),1,0.0
+"Brooklyn, New York",1,1.0
+Brooklyn,1,1.0
+"Bronx, New York",1,1.0
+"Bronx, NY",1,0.0
+BrasÌ_lia,1,0.0
+Brazil ,1,0.0
+"Brazos Valley, Texas",1,1.0
+"Brecksville, OH",1,0.0
+"Bremerton, WA",1,1.0
+"Brentwood, NY",1,0.0
+"Brentwood,TN",1,0.0
+"Bridport, England",1,0.0
+Brighton and Hove,1,0.0
+Brisbane Australia,1,0.0
+"Brisbane, Queensland",1,0.0
+Brisbane.,1,1.0
+Bristol,1,0.0
+"Bristol, England",1,1.0
+"Bristol, UK",1,1.0
+British girl in Texas,1,0.0
+Brizzle City !,1,1.0
+"Broadview Heights, Ohio",1,0.0
+Bronx NYC / M-City NY,1,0.0
+Christchurch New Zealand,1,0.0
+"Cimahi,West Java,Indonesia",1,1.0
+Benedict College,1,0.0
+"Durand, MI",1,0.0
+Downtown Oklahoma City,1,0.0
+"Dreieich, Germany",1,1.0
+"Dubai, United Arab Emirates",1,1.0
+Dublin,1,0.0
+Dudetown,1,0.0
+Duncan,1,1.0
+"Dundas, Ontario",1,0.0
+"Dundee, UK",1,1.0
+"Dunwoody, GA",1,0.0
+"Durban, South Africa",1,0.0
+"Dover, DE",1,0.0
+Durham N.C ,1,0.0
+Dutch/English/German,1,0.0
+"Duval, WV 25573, USA ?",1,0.0
+"DÌ_sseldorf, Germany",1,1.0
+EARTH,1,1.0
+EARTH ,1,0.0
+ECSU16,1,0.0
+EGYPT,1,1.0
+EIU  Chucktown/LaSalle IL,1,0.0
+"Downtown Churubusco, Indiana",1,0.0
+"Dorset, United Kingdom",1,1.0
+"Derbyshire, United Kingdom",1,0.0
+Diamondville,1,0.0
+"Des Moines, Iowa ",1,1.0
+Desert Storm?? |BCHS|,1,0.0
+Detroit Tigers Dugout,1,0.0
+"Detroit, MI, United States",1,0.0
+"Detroit, Michigan",1,0.0
+Detroit/Windsor,1,0.0
+Devon/London ,1,0.0
+Dhaka,1,1.0
+"Dhaka, Bangladsh",1,1.0
+Dicky Beach,1,1.0
+"Dorset, UK",1,0.0
+Did anybody see me here ??,1,1.0
+Dil's Campsite,1,1.0
+Dimapur,1,1.0
+"Dindigul,TamilNadu.",1,1.0
+Displaced Son of TEXAS!,1,0.0
+District 12 - Orange County,1,1.0
+District of Gentrification/ DC,1,0.0
+Docker container,1,0.0
+Doghouse,1,0.0
+ELVY,1,0.0
+EPTX,1,0.0
+EVERYWHERE,1,1.0
+"El Paso, Texas",1,1.0
+Ebola,1,1.0
+Ecuador,1,0.0
+"Edappally,Kochi",1,0.0
+"Eddyville, Oregon 97343",1,1.0
+"Edinburgh, Scotland",1,0.0
+"Edmonton, Alberta",1,1.0
+"Edmonton, Alberta - Treaty 6",1,1.0
+"El Dorado, KS",1,1.0
+"El Paso, TX",1,0.0
+Elchilicitanierraversal ,1,0.0
+"Eagle Mountain, Texas ",1,0.0
+"Elizabeth, NJ",1,0.0
+"Elk Grove, CA, USA",1,1.0
+"Elkhart, IN",1,0.0
+Ellensburg to Spokane,1,1.0
+"Elmwood Park, NJ",1,0.0
+"Elsewhere, NZ",1,0.0
+"Ely, Cambridgeshire",1,1.0
+Email: Lovethterry@gmail.com,1,1.0
+Emirates,1,0.0
+"Eaubonne, 95, France",1,0.0
+"Eau Claire, Wisconsin",1,1.0
+"Eastlake, OH",1,0.0
+Eastern Iowa,1,1.0
+"Eagle Pass, Texas",1,1.0
+Eagle River Alaska,1,1.0
+"Ealing, London",1,1.0
+Earth ,1,0.0
+Earth 0,1,0.0
+"Earth, Milky Way, Universe",1,1.0
+Earth-616,1,0.0
+Earth: Senseless nonsense,1,1.0
+Earthling (For now!),1,1.0
+"East Atlanta, Georgia",1,1.0
+"East Aurora, NY",1,0.0
+"East Islip, NY",1,1.0
+East Kilbride,1,0.0
+"East Lansing, MI",1,0.0
+East London,1,0.0
+East London. ,1,0.0
+East TN.,1,0.0
+EastAtlanta ??#WestGeorgia'18,1,0.0
+Eastbourne England,1,0.0
+"Derry, 17 ",1,0.0
+Depok,1,0.0
+Cimerak - Pangandaran,1,0.0
+Contoocook Valley Region of Ne,1,0.0
+"Colorado, USA",1,0.0
+Colorado/WorldWide,1,0.0
+"Columbia Heights, MN",1,0.0
+Columbus ?? North Carolina,1,0.0
+"Columbus, Georgia",1,0.0
+"Concord, CA",1,1.0
+"Concord, N.C.",1,1.0
+"Concord, NH ",1,1.0
+"Conroe, TX",1,0.0
+Conversing In Janet's CafÌ¬,1,0.0
+"Colonial Heights, VA",1,1.0
+"Coolidge, AZ",1,0.0
+"Copenhagen, Capital Region of Denmark",1,1.0
+Cornwall,1,1.0
+Corpus - Las Vegas - Houston,1,0.0
+Corpus Christi,1,1.0
+"Corpus Christi, Texas",1,1.0
+Cosmic Oneness,1,0.0
+Cottonwood Arizona,1,1.0
+"County Durham, United Kingdom",1,0.0
+Colorado Springs,1,0.0
+"Colombo,Sri Lanka.",1,0.0
+Deployed in the Middle East,1,0.0
+"Cleveland, TN",1,0.0
+"Cincinnati, OH",1,0.0
+City Of Joy,1,1.0
+"City of Angels, CA",1,0.0
+"City of London, London",1,1.0
+"Ciudad AutÌ_noma de Buenos Aires, Argentina",1,0.0
+"Clayton, NC",1,1.0
+Clean World,1,1.0
+"Clearwater, FL",1,0.0
+"Cleveland, Ohio",1,0.0
+"Click the link below, okay ",1,0.0
+ColoRADo,1,0.0
+Cloud 9,1,0.0
+Co. Tyrone Northern Ireland,1,0.0
+Coasts of Maine & California,1,0.0
+Cobblestone,1,1.0
+"Cochrane, Alberta, Canada",1,1.0
+"Coconut Creek, Florida",1,0.0
+Coimbatore,1,1.0
+Colchester Essex ,1,0.0
+"College Station, TX",1,0.0
+"Coventry, Rhode Island",1,0.0
+"Coventry, UK",1,0.0
+Crato - CE ,1,0.0
+"Davidson, NC",1,0.0
+"Dalston, Hackney",1,1.0
+Dammam- KSA,1,1.0
+"Danbury, CT",1,0.0
+"Danville, VA",1,0.0
+Dappar (Mohali) Punjab,1,1.0
+Darlington,1,0.0
+"Darnley, Prince Edward Island",1,0.0
+Daruka (near Tamworth) NSW,1,0.0
+Davao City,1,0.0
+"Davis, California",1,1.0
+"Crayford, London",1,1.0
+"Dayton, OH",1,0.0
+"Dayton, Ohio",1,1.0
+"Deadend, UK",1,0.0
+Definitely NOT the stables,1,0.0
+Delhi,1,0.0
+Delhi ,1,0.0
+"Den Helder, Rijkswerf",1,0.0
+"Denton, Texas",1,0.0
+Denver Colorado. Fun Times,1,1.0
+"Dallas, Texas. ",1,0.0
+"Dallas, Tejas",1,0.0
+"Dallas, TX ",1,1.0
+"Dalkeith, Scotland",1,0.0
+"Crouch End, London",1,0.0
+Croydon,1,0.0
+"Cuernavaca, Morelos, MÌ©xico.",1,1.0
+"Cuttack, Orissa",1,0.0
+Cydia,1,0.0
+Cymru araul,1,1.0
+"Cypress, CA 90630",1,0.0
+Cyprus,1,1.0
+D(M)V  ,1,1.0
+D.C. - Baltimore - Annapolis,1,0.0
+DC Metro area,1,0.0
+"DC, frequently NYC/San Diego",1,1.0
+"DFW, Texas",1,1.0
+DMV,1,0.0
+DRAW A CIRCLE THAT'S THE EARTH,1,0.0
+"DaKounty, Pa",1,1.0
+Daddy Kink Central,1,0.0
+"Dagenham, Essex",1,0.0
+Dakar,1,1.0
+"Benicia, CA ",1,0.0
+"Bellville, Ohio",1,0.0
+"England & Wales Border, UK",1,0.0
+"801 SL,UT",1,0.0
+"570 Vanderbilt; Brooklyn, NY",1,0.0
+6,1,0.0
+60th St (SS),1,0.0
+627,1,0.0
+65,1,0.0
+650/559,1,0.0
+709?,1,0.0
+73101,1,1.0
+772 Temperance Permenence,1,1.0
+828/704(Soufside)/while looking goofy in NJ,1,0.0
+518 åá NY,1,0.0
+828??864??803,1,0.0
+876 Jamrock.,1,1.0
+9/1/13,1,0.0
+92,1,1.0
+94123,1,0.0
+956,1,0.0
+? Jet Life ?,1,0.0
+? Philly Baby ?,1,0.0
+? icon by @Hashiren_3 ?,1,0.0
+"52.479722, 62.184971",1,0.0
+518,1,0.0
+"204, 555 11 Ave. S.W.",1,1.0
+36 & 38,1,0.0
+"21, Porto",1,0.0
+23 countries and counting!,1,0.0
+253,1,0.0
+"261 5th Avenue New York, NY ",1,1.0
+"2B Hindhede Rd, Singapore",1,0.0
+3.28.15|7.20.15|7.25.15,1,0.0
+3000 miles from everyone,1,0.0
+302???? 815,1,1.0
+316,1,1.0
+3?3?7?SLOPelousas??2?2?5?,1,0.0
+"505 W. Maple, Suite 100",1,0.0
+3???2???????,1,0.0
+3rd Eye Chakra,1,1.0
+401 livin',1,1.0
+412 NW 5th Ave. Portland OR,1,0.0
+"46.950109,7.439469",1,1.0
+"48.870833,2.399227",1,1.0
+5-Feb,1,1.0
+5/5 access / rt link please x,1,0.0
+50% Queanbeyan - 50% Sydney,1,1.0
+? miranda ? 521 mi,1,0.0
+?205?478?,1,0.0
+?? ?+254? ? \??å¡_??å¡_???å¡_?/??,1,1.0
+@UntmdOutdoors #T.O.R.K ,1,0.0
+??????????????????,1,1.0
+????s ?? ????Ìø????Ì¡a,1,1.0
+??t?a,1,0.0
+?@symbolicjensen?,1,0.0
+?Gangsta OC / MV RP; 18+.?,1,1.0
+?^åá??åá?^?? ??,1,0.0
+?s????ss? a?????,1,0.0
+?semekeepschanging@soyeh?,1,0.0
+@ ForSL/RP,1,1.0
+@cockerelshoes,1,0.0
+?? ??,1,0.0
+@notoriousD12,1,0.0
+@potteratthedisc,1,1.0
+@protectingtitan's side.,1,0.0
+A Hoop Somewhere,1,0.0
+A small federal enclave,1,1.0
+A sofa,1,0.0
+A.A.S my Aztec Princess,1,0.0
+ACCRA GHANA,1,1.0
+AEP,1,0.0
+??????????????,1,1.0
+"?????????????, Thailand ",1,1.0
+????????????,1,1.0
+??????????? ???????????..? ,1,0.0
+?? Cloud Mafia ??,1,0.0
+?? Made in the Philippines ??,1,0.0
+??+ ... ??+,1,0.0
+??9?,1,0.0
+??? ?? ??????? ,1,1.0
+??? ??? ????? ??? ???.,1,1.0
+??? ???? ??????,1,1.0
+??? ???? ?f glory. ?,1,0.0
+??? ?????????????,1,1.0
+???? ???????,1,1.0
+????? ???? ????,1,1.0
+?????? ??? ?????? ????????,1,0.0
+?????? ???? ??????,1,1.0
+?????? in Yokohama Japan,1,1.0
+??????? ??????? ????????,1,1.0
+"???????, ??'??????",1,0.0
+"???????, Texas",1,0.0
+???????? ?????????.,1,0.0
+???????????,1,0.0
+21 | PNW,1,0.0
+2005 |-/,1,0.0
+AKRON OHIO USA,1,1.0
+#BossNation!,1,0.0
+ Somewhere.,1,0.0
+ The World,1,1.0
+ Tropical SE FLorida,1,0.0
+ snapchat // fvck_casper ,1,0.0
+ |IG: imaginedragoner,1,0.0
+"#1 Vacation Destination,HAWAII",1,1.0
+#937??#734,1,0.0
+#????? Libya#,1,1.0
+#BlackLivesMatter,1,1.0
+#Bummerville otw,1,1.0
+ Nxgerxa,1,0.0
+#EngleWood CHICAGO ,1,0.0
+#ForeverWithBAP 8 ,1,0.0
+#GDJB #ASOT,1,0.0
+#Gladiator Û¢860Û¢757Û¢,1,0.0
+#HAMont,1,0.0
+#KaumElite;#F?VOR;#SMOFC,1,1.0
+#LemonGang ,1,0.0
+#MadeInNorthumberland,1,0.0
+#MayGodHelpUS,1,0.0
+" Quantico Marine Base, VA.",1,0.0
+ New England,1,1.0
+"2,360 miles away",1,0.0
+" BC, US, Asia or Europe.",1,0.0
+"  Melbourne, Australia",1,0.0
+  News,1,1.0
+  å_ ,1,0.0
+ 45å¡ 5'12.53N   14å¡ 7'24.93E,1,0.0
+" 616 Û¢ Kentwood , MI ",1,1.0
+ ? ??????? ? ( ?? å¡ ? ? ? å¡),1,1.0
+ ?currently writing a book?,1,0.0
+ Alberta,1,1.0
+ Alex/Mika/Leo|18|he/she/they,1,0.0
+ Baku & Erzurum ,1,1.0
+ New Delhi ,1,0.0
+ Blood Indian Reserve,1,0.0
+ Bouvet Island,1,1.0
+" Eugene, Oregon",1,0.0
+ Indiana,1,0.0
+ Jariana Town,1,0.0
+" Little Rock, AR",1,0.0
+ Miami Beach,1,0.0
+" Nevada Carson City,Freeman St",1,1.0
+ Neverland ,1,0.0
+#NewcastleuponTyne #UK,1,0.0
+#ODU,1,0.0
+#PhanTrash,1,0.0
+11202,1,1.0
+... -.- -.--,1,1.0
+//??//,1,1.0
+//RP\ ot @Mort3mer\\,1,0.0
+05/04/2014 18:23 ?,1,0.0
+1/10 Taron squad,1,0.0
+1/3 of the blam squad ,1,0.0
+10 Steps Ahead.  Cloud 9,1,1.0
+10-Jul,1,0.0
+11/4/14,1,0.0
+"11th dimension, los angeles",1,0.0
+#RedSoxNation,1,0.0
+"1313 W.Patrick St, Frederick",1,0.0
+14/cis/istj ,1,0.0
+"1648 Queen St. West, Toronto.",1,0.0
+17-Feb,1,0.0
+17th Dimension,1,1.0
+18 | 509 ,1,0.0
+18 Û¢ CC,1,0.0
+1D | 5SOS | AG,1,0.0
+2 high 2 come down ,1,1.0
+-?s?s?j??s-,1,1.0
+"-6.152261,106.775995",1,0.0
+(he/him),1,0.0
+(a) property of the universe,1,0.0
+#SOUTHAMPTON ENGLAND,1,0.0
+#SandraBland,1,0.0
+#UNITE THE BLUE  ,1,0.0
+#WashingtonState #Seattle,1,1.0
+#WhereverI'mAt,1,0.0
+#expelcl*y,1,0.0
+#freegucci,1,0.0
+#goingdownthetoilet Illinois,1,1.0
+#iminchina,1,1.0
+#keepthefaith J&J,1,1.0
+#otrakansascity,1,0.0
+#partsunknown,1,1.0
+$ad $hawty,1,0.0
+'Merica,1,0.0
+'SAN ANTONIOOOOO',1,0.0
+'soooota,1,1.0
+"( ?å¡ ?? ?å¡), ",1,0.0
+(RP),1,0.0
+(Spain),1,1.0
+AFRICA,1,1.0
+ALWAYS DYING NEVER RESTING,1,1.0
+Bellevue NE,1,1.0
+Austin/Los Angeles,1,0.0
+Auburn ,1,0.0
+"Auburn, AL",1,1.0
+"Augusta, GA",1,0.0
+"Augusta, Maine, 04330",1,0.0
+"Aurora, IL",1,0.0
+"Aurora, Ontario ",1,0.0
+Austin,1,1.0
+Austin TX,1,1.0
+Austin | San Diego,1,0.0
+Australia ,1,1.0
+Atmosphere,1,0.0
+Australian Capital Territory,1,1.0
+"Aveiro, Portugal",1,0.0
+Avon,1,0.0
+"Avon, OH",1,1.0
+Azeroth,1,1.0
+Aztec NM,1,0.0
+B&B near Alton Towers,1,0.0
+BC,1,0.0
+BIG D  HOUSTON/BOSTON/DENVER,1,0.0
+Attock,1,0.0
+"Atlantic, IA",1,0.0
+"Asheboro, NC",1,0.0
+Athens - Nicosia,1,0.0
+"Ashland, Oregon",1,1.0
+Ashxjonespr@gmail.com,1,1.0
+Asia European Continent Korea ,1,0.0
+Asia Pacific   ,1,1.0
+"Astley, Manchester",1,0.0
+AsunciÌ_n-PY / TÌ_bingen-GER,1,0.0
+At Da Laundry Mat Wit Nivea ,1,1.0
+At Work,1,0.0
+At your back,1,0.0
+"Athens, Greece",1,1.0
+"Atlantic Highlands, NJ",1,1.0
+"Athens,Greece",1,1.0
+Atlanta - FAU class of '18,1,1.0
+Atlanta Georgia,1,1.0
+Atlanta g.a.,1,0.0
+"Atlanta(ish), GA",1,0.0
+"Atlanta, Ga",1,0.0
+"Atlanta, Georgia",1,0.0
+"Atlanta, Georgia USA",1,0.0
+"Atlanta,Ga",1,0.0
+"BILASPUR,CHHATTISGARH,495001",1,1.0
+BKI-KUA,1,0.0
+BOSTON-LONDON,1,0.0
+Beautiful British Columbia,1,0.0
+"Basking Ridge, NJ",1,0.0
+Bathtub de Bett ,1,0.0
+Baton Rouge,1,0.0
+Bay Area,1,0.0
+"Bay Area, CA",1,0.0
+Baydestrian,1,1.0
+"Bayonne, NJ",1,0.0
+Beacon Hills,1,0.0
+"Beaumont, TX",1,1.0
+Bedford IN ,1,1.0
+BOT ACCOUNT,1,0.0
+"Bedford, England",1,0.0
+Behind The Obama Curtain,1,1.0
+"Beirut, Lebanon",1,1.0
+Beirut/Toronto,1,1.0
+Beit El - Israel,1,1.0
+"Belbroughton, England",1,1.0
+Belfast,1,0.0
+Belgrade,1,0.0
+"Belleville, Illinois",1,0.0
+"Basketball City, USA ",1,0.0
+"Based out of Portland, Oregon",1,0.0
+Based in CA - Serve Nationwide,1,1.0
+"Bartholomew County, Indiana",1,1.0
+BROKE NIGGAS DREAM!!,1,0.0
+"BROOKLYN, NYC",1,1.0
+Back East in PA,1,0.0
+Bacon,1,0.0
+Bagalkote Karnataka ,1,0.0
+Bahrain,1,1.0
+Baker City Oregon,1,0.0
+"Bakersfield, CA",1,0.0
+Balikesir - Eskisehir,1,0.0
+Banbridge,1,1.0
+"Bandar Lampung, Indonesia",1,1.0
+Bangalore,1,1.0
+"Bangalore City, India",1,1.0
+"Bangalore, INDIA",1,0.0
+Bangalore. India,1,0.0
+Bangkok,1,1.0
+Bangkok Thailand,1,0.0
+"Bangor, Co.Down",1,0.0
+"Barcelona, Spain",1,0.0
+"Ashford, Kent, United Kingdom",1,1.0
+Asgard,1,1.0
+ANDY 4 LEADER X,1,0.0
+Albany/NY,1,0.0
+Afghanistan,1,1.0
+"Afghanistan, USA",1,1.0
+"Aix-en-Provence, France",1,0.0
+Aix-en-Provence/Utrecht,1,0.0
+Akure city in ondo state ,1,1.0
+"Alabama, USA",1,0.0
+"Alameda and Pleasanton, CA",1,0.0
+"Alameda, CA",1,1.0
+"Alaska, USA",1,1.0
+Alberta ,1,1.0
+Adventist - Lesson Sabbath,1,1.0
+Alberta Pack,1,0.0
+Alberta | Sask. | Montana,1,1.0
+"Alberta, VA",1,0.0
+Albuquerque,1,1.0
+Albuquerque New Mexico,1,0.0
+"Alexandria, Egypt.",1,1.0
+"Alexandria, VA, USA",1,1.0
+Alger-New York-San Francisco,1,1.0
+"Alicante, Spain",1,1.0
+Adventuring in Narnia,1,0.0
+Adelaide,1,1.0
+"Arvada, CO",1,1.0
+AUS,1,0.0
+ANYWEHERE !!,1,0.0
+ARBAILO,1,0.0
+ARIZONA,1,0.0
+ATL ? SEA ,1,0.0
+ATL ??,1,0.0
+"ATL, GA",1,0.0
+ATL??AL??,1,0.0
+"ATLANTA , GEORGIA ",1,0.0
+ATX,1,0.0
+AUSTRALIA-SOUTHAFRICA-CAMBODIA,1,1.0
+Ad Majorem Dei Glorium,1,1.0
+AZ,1,0.0
+"Aarhus, Central Jutland",1,0.0
+"Ab, Canada",1,0.0
+Aberdeenshire,1,0.0
+"Absecon, NJ",1,1.0
+Abuja,1,0.0
+"Abuja, Nigeria",1,0.0
+"Abuja,Nigeria",1,1.0
+Across the Atlantic,1,0.0
+"Alicante, Valencia",1,0.0
+All Around the World,1,0.0
+All around the world,1,0.0
+Argentina,1,0.0
+Antarctica,1,1.0
+Antigua ?? NYC ,1,0.0
+"Antioch, CA ",1,0.0
+Anywhere,1,1.0
+Anywhere I like,1,0.0
+Anywhere Safe,1,1.0
+Aperture Science Test Facility,1,0.0
+Aracaju - Sergipe,1,1.0
+Area 8 ,1,0.0
+Argus Industries \m/666\m/,1,1.0
+All around the world baby,1,0.0
+Arkansas,1,1.0
+"Arkansas, Jonesboro",1,1.0
+"Arlington, VA",1,0.0
+"Arlington, VA and DC",1,1.0
+"Arnhem, the Netherlands",1,1.0
+Aro Diaspora,1,1.0
+Around the world,1,1.0
+Arthas US,1,0.0
+Arundel ,1,1.0
+"Annapolis, MD",1,1.0
+"Anna Maria, FL",1,0.0
+Ankara - Malatya - ad Orontem,1,1.0
+"Anderson, SC",1,1.0
+All around the world!,1,0.0
+Alliston Ontario,1,0.0
+"Alphen aan den Rijn, Holland",1,0.0
+Also follow ?,1,1.0
+"Alvin, TX",1,0.0
+Am International,1,0.0
+Amarillo,1,1.0
+"Amazon Seller , Propagandist",1,1.0
+America | New Zealand ,1,0.0
+Americas Newsroom,1,1.0
+"Ames, IA",1,1.0
+"Ames, Iowa",1,1.0
+"Amman, Jordan",1,1.0
+"Amman,Jordan",1,1.0
+Amsterdam,1,1.0
+Amsterdam & Worldwide,1,1.0
+Amsterdam | San Francisco,1,1.0
+An eight-sided polygon,1,1.0
+Anaheim,1,1.0
+England ,1,0.0
+"England, Great Britain.",1,1.0
+New Jersey/New York,1,0.0
+Lizzy's Knee,1,0.0
+"Littleton, CO",1,0.0
+"Littleton, CO, USA",1,0.0
+"Live Oak, TX",1,1.0
+Live mÌÁs,1,0.0
+Live4Heed??,1,0.0
+Lives in London,1,1.0
+"Livingston, IL  U.S.A.",1,1.0
+"Livingston, MT",1,0.0
+"Livonia, MI",1,0.0
+LiÌ¬ge,1,0.0
+Lindenhurst,1,0.0
+"Ljubljana, Slovenia",1,1.0
+Loading...,1,1.0
+London ,1,0.0
+London / Berlin / Online,1,0.0
+London / Birmingham,1,0.0
+"London, Greater London, UK",1,0.0
+"London, Kent & SE England.",1,0.0
+"London, Riyadh",1,1.0
+"London, Sydney",1,1.0
+"Linton Hall, VA",1,0.0
+"Lincoln, IL",1,0.0
+Leeds,1,1.0
+LiVE MÌS,1,0.0
+"Leeds, UK",1,1.0
+"Leeds, United Kingdom",1,0.0
+"Lehigh Valley, PA",1,1.0
+"Leicester, England",1,1.0
+Leitchfield Kentucky,1,0.0
+"Lethbridge, AB, Canada",1,0.0
+"Lethbridge, Alberta, Canada",1,1.0
+"Level 3 Garrison, Sector G",1,0.0
+Lexington,1,1.0
+"Liberty Lake, WA",1,0.0
+Lincoln City Oregon,1,0.0
+"Liberty Township, Ohio",1,0.0
+"Light and dark, form and void",1,0.0
+Like us on Face ,1,0.0
+"Lima, OH",1,0.0
+"Lima, Ohio",1,1.0
+"Lima, Peru",1,0.0
+"Lima, PerÌ¼",1,0.0
+Lima-Peru,1,0.0
+Lincoln,1,0.0
+"London, United Kingdom",1,1.0
+London.,1,1.0
+London/Bristol/Guildford,1,0.0
+Lytham St Anne's ,1,0.0
+Loveland Colorado,1,0.0
+"Lowell, MA",1,0.0
+"Lubbock, TX",1,1.0
+"Lubbock, Texas",1,0.0
+"Lucknow, India",1,1.0
+Lurking,1,0.0
+"Lynchburg, VA",1,0.0
+"Lynnfield, MA",1,0.0
+"Lynwood, CA",1,0.0
+M!$$!$$!PP!,1,1.0
+"London/Lagos/FL ÌÏT: 6.6200132,",1,1.0
+M!A: None,1,0.0
+MA via PA,1,1.0
+MAURITIUS,1,1.0
+MD,1,0.0
+MI,1,0.0
+MI - CA,1,1.0
+"MI,USA",1,0.0
+MIchigan,1,1.0
+MNL,1,0.0
+"Louisville, KY ",1,0.0
+"Louisville, KY",1,1.0
+"Louisiana, USA",1,0.0
+"Loughton, Essex, UK",1,0.0
+London/New York,1,1.0
+London/Outlaw Country ,1,0.0
+London/Surrey ,1,0.0
+Londonstan,1,0.0
+"Long Beach, CA",1,0.0
+Long Eaton åá Derbyshire åá UK,1,0.0
+Long Island,1,0.0
+Long Island NY & San Francisco,1,0.0
+"Long Island, NY",1,1.0
+Los Angeles New York,1,0.0
+Los Angeles for now,1,1.0
+"Los Angeles, Calif.",1,1.0
+"Los Angeles, London, Kent",1,0.0
+"Los Angeles,CA, USA",1,0.0
+Los Angeles... CA... USA,1,0.0
+"Los Angles, CA",1,0.0
+"Louavul, KY",1,0.0
+"Loughborough, England",1,1.0
+Loughborough.,1,1.0
+"Leeds, U.K.",1,0.0
+"Leduc, Alberta, Canada",1,1.0
+MY RTs ARE NOT ENDORSEMENTS,1,0.0
+Ktx,1,1.0
+"Kingston, Pennsylvania",1,0.0
+Kingswinford,1,0.0
+Kirkwall,1,0.0
+Kleenex factory,1,1.0
+"Kodiak, AK",1,0.0
+"Kokomo, In",1,1.0
+"Kolkata, India",1,0.0
+Konoha,1,0.0
+Konoha Village,1,1.0
+Kuala Lumpur,1,1.0
+Killafornia made me ,1,1.0
+"Kuala Lumpur, Malaysia",1,0.0
+"Kualar Lumpur, Malaysia",1,1.0
+KurveZ@GearHeadCentral.net,1,0.0
+"Kutztown, PA",1,0.0
+Kuwait,1,1.0
+Kuwait ,1,1.0
+"Kwajalein/Virginia/Dayton, OH",1,1.0
+"Kwara, Nigeria",1,0.0
+"Kyiv, Ukraine",1,1.0
+Killarney,1,0.0
+"Killa Hill, CO",1,0.0
+"Lebanon, Tennessee",1,1.0
+"Kauai, Hawaii",1,0.0
+"Kalamazoo, Michigan",1,0.0
+"Kalimantan Timur, Indonesia",1,0.0
+"Kamloops, BC",1,1.0
+Kaneohe,1,0.0
+Kansas,1,1.0
+"Kansas City, Mo.",1,1.0
+"Kansas, The Free State! ~ KC",1,0.0
+Karachi ,1,1.0
+"Karolinska vÌ_gen 18, Solna",1,1.0
+"Kawartha Lakes, Ontario, Canad",1,0.0
+Kilkenny,1,0.0
+"Keighley, England",1,0.0
+"Kelowna, BC",1,1.0
+"Kenosha, WI 53143",1,0.0
+"Kensington, MD",1,1.0
+"Kenton, Ohio",1,1.0
+"Kentucky, USA",1,0.0
+Kernow,1,0.0
+"Kettering, OH",1,0.0
+Kicking Horse Pass,1,1.0
+"KÌ¦ln, Nordrhein-Westfalen",1,1.0
+L'Enfant Plaza Metro Station,1,1.0
+L. A.,1,1.0
+"Las Cruces, NM",1,1.0
+Lancaster California,1,1.0
+"Lancaster, CA",1,1.0
+"Lancaster, Pennsylvania, USA",1,1.0
+Land Of The Kings,1,0.0
+Land of Lincoln,1,0.0
+"Lansdale,Pennsylvania",1,1.0
+"Lansing, Michigan",1,0.0
+"Laredo, TX",1,0.0
+"Largo, MD",1,0.0
+Las Vegas aka Hell,1,1.0
+L/S/Z/L/T/H/C/H/R/A/S/C,1,0.0
+"Las Vegas, NV",1,1.0
+"Las Vegas, NV ",1,1.0
+"Las Vegas, NV USA",1,0.0
+Laventillemoorings ,1,0.0
+"Lawrence, KS via Emporia, KS",1,1.0
+"Layang-Layang, Perak",1,0.0
+Le Memenet,1,0.0
+Le Moyne '16,1,1.0
+Leaving Bikini Bottom,1,0.0
+"Lancashire, United Kingdom",1,0.0
+"Lakewood, Tennessee",1,0.0
+"Lake Monticello, VA",1,1.0
+Lake Highlands,1,0.0
+LA,1,0.0
+LA - everywhere,1,0.0
+LA ??,1,0.0
+LA/OC/Vegas,1,0.0
+LAGOS,1,1.0
+"LEALMAN, FLORIDA",1,1.0
+LFC x GSW,1,1.0
+"LITTLETON, CO, USA, TERRAN",1,0.0
+LIVERPOOL,1,0.0
+LOCAL ATLANTA NEWS 4/28/00 - 4/28/15 FREELANCER,1,0.0
+"LONG ISLAND, NY",1,0.0
+"LP, MN USA",1,0.0
+LYNBROOK,1,0.0
+"La Grange Park, IL",1,0.0
+"La Puente, CA",1,0.0
+"Laguna Beach, Calif. ",1,1.0
+Lahar & Gwalior,1,1.0
+Lahore,1,0.0
+"Lahti, Finland",1,0.0
+MUM-DEL,1,1.0
+Mackem in Bolton,1,0.0
+"Kabul, Tuebingen, Innsbruck",1,0.0
+NEPA/570,1,0.0
+"MÌ©rida, YucatÌÁn",1,0.0
+MÌ©xico,1,0.0
+MÌ©xico D.F.,1,1.0
+N. California USA,1,0.0
+N?? Y???.,1,0.0
+NAIROBI  KENYA ,1,0.0
+NAWF SIDE POKING OUT ,1,1.0
+NBO,1,0.0
+NC || OR,1,0.0
+NEW YORK,1,0.0
+My subconscious,1,0.0
+NEWCASTLE,1,0.0
+"NH via Boston, MA",1,0.0
+NIFC,1,1.0
+NJ/NY/NM/NE/ND,1,1.0
+NJ/NYC,1,1.0
+NOLA ?? TX,1,0.0
+NV,1,0.0
+NY Capital District,1,1.0
+NY || live easy? ,1,0.0
+"Mysore, Karnataka",1,1.0
+My old New England home,1,0.0
+"Montgomery, AL",1,1.0
+Mostly Yuin.,1,0.0
+"MontrÌ©al, QuÌ©bec",1,0.0
+"Moore, OK",1,0.0
+"Mooresville, NC",1,1.0
+"Mooseknuckle, Maine",1,1.0
+"Morganville, Texas.",1,0.0
+Morocco,1,0.0
+"Morris, IL",1,0.0
+"Moscow, Russia",1,0.0
+"Mostly Wellington, NZ ",1,0.0
+"Mount Vernon, NY",1,0.0
+My mind is my world,1,0.0
+Mountains,1,0.0
+Mpela'zwe ,1,0.0
+Multinational *****,1,0.0
+Mumbai (India),1,1.0
+Mumbai india,1,1.0
+"Mumbai, India",1,0.0
+"Murray Hill, New Jersey",1,0.0
+My contac 27B80F7E 08170156520,1,0.0
+My heart is a ghost town!,1,0.0
+"NY, CT & Greece",1,1.0
+"NY, NY",1,0.0
+NYC / International,1,1.0
+"New Britain, CT",1,0.0
+Near Yosemite,1,0.0
+"Neath, South Wales",1,0.0
+"Nebraska, Colorado & The GLOBE",1,1.0
+"Nelspruit, South Africa",1,1.0
+Netherlands,1,1.0
+"Netherlands,Amsterdam-Virtual ",1,0.0
+Nevada (wishing for Colorado),1,0.0
+"Nevada, USA",1,0.0
+Neverland,1,0.0
+"New Brunswick, NJ",1,0.0
+NYC area,1,0.0
+New Chicago,1,1.0
+New Delhi,1,1.0
+"New Delhi,India",1,1.0
+"New Hampshire, USA",1,0.0
+"New Haven, Connecticut",1,1.0
+New Jersey ,1,1.0
+"New Jersey, USA",1,1.0
+"New Jersey, usually",1,0.0
+New Jersey/ D.R.,1,1.0
+Near Warrington,1,0.0
+"Near Richmond, VA",1,0.0
+"Nashville, Tn",1,0.0
+"Nashville, Tennessee",1,1.0
+NYC metro,1,0.0
+NYC&NJ,1,0.0
+"NYC, New York",1,0.0
+"NYC,US - Cali, Colombia",1,0.0
+NYC-LA-MIAMI,1,1.0
+NYHC,1,1.0
+Na waffi,1,1.0
+"Nadiad ,Gujarat , India!!",1,0.0
+Nagpur,1,0.0
+"Nairobi , Kenya",1,0.0
+"Nairobi, Kenya ",1,1.0
+Nakhon Si Thammarat,1,1.0
+Namjoon's pants,1,0.0
+"Nanaimo, BC, Canada",1,1.0
+"Nantes, France",1,1.0
+"Napa, CA",1,0.0
+"Narnia, Maryland",1,0.0
+Nashua NH,1,1.0
+Nashville,1,1.0
+Montreal,1,1.0
+"Montgomery County, MD",1,0.0
+"Macon, Georgia",1,1.0
+Mass,1,0.0
+"Maricopa, AZ",1,0.0
+"Marietta, GA",1,1.0
+"Mariveles, Bataan",1,1.0
+"Marrakech MÌ©dina, Marrakech - Tensift - Al Haouz",1,1.0
+Mars,1,0.0
+Maryland ,1,0.0
+"Maryland, USA",1,0.0
+"Maryland,Baltimore",1,0.0
+"Marysville, MI",1,0.0
+Massachusetts ,1,0.0
+"Maracay y Nirgua, Venezuela",1,1.0
+"McLean, VA",1,0.0
+Me mammy's belly,1,0.0
+"Medan,Indonesia",1,0.0
+"MedellÌ_n, Antioquia",1,0.0
+"Medford, NJ",1,1.0
+"Medford, Oregon",1,0.0
+Meereen ,1,0.0
+"Melbourne, Australia.",1,1.0
+"Melbourne, FL",1,0.0
+Marbella. Spain,1,1.0
+"Mankato, MN",1,1.0
+"Monterrey, MÌ©xico",1,0.0
+Maharashtra,1,1.0
+Made Here In Detroit ,1,1.0
+Made in America,1,0.0
+"Madison, WI & St. Louis MO",1,0.0
+"Madison, Wisconsin, USA",1,1.0
+Madisonville TN,1,0.0
+Madrid,1,1.0
+"Madrid, Comunidad de Madrid",1,0.0
+Magnolia,1,0.0
+"Magnolia, Fiore ",1,1.0
+Makai,1,0.0
+Manila City,1,0.0
+Making Worldwide Change Near U,1,0.0
+Malang,1,1.0
+Malaysia/Jordan,1,1.0
+Malibu/SantaFe/Winning!,1,1.0
+"Manavadar, Gujarat",1,0.0
+Manchester UK,1,1.0
+"Manchester, The World, England",1,0.0
+Manhattan,1,0.0
+Manila,1,1.0
+"Melbourne, Florida",1,1.0
+Melbourne-ish,1,0.0
+Melrose,1,1.0
+Minneapolis - St. Paul,1,1.0
+"Midwest City, OK",1,0.0
+Midwestern USA,1,1.0
+Milky Way galaxy ,1,0.0
+Milton Keynes ,1,0.0
+"Milton Keynes, England",1,0.0
+Milton keynes,1,0.0
+Milton/Tallahassee,1,1.0
+Milwaukee County,1,0.0
+Milwaukee WI,1,0.0
+"Minneapolis, MN",1,0.0
+"Melton, GA",1,0.0
+"Minneapolis,MN,US",1,1.0
+Minneapolis/St. Paul,1,0.0
+"Minority Privilege, USA",1,1.0
+"Mississauga, Ontario",1,0.0
+"Missouri, USA",1,0.0
+"Mogadishu, New Jersey",1,0.0
+"Mogadishu, Somalia",1,1.0
+Montana ,1,1.0
+"Montana, USA",1,0.0
+Middle Earth / Asgard / Berk,1,1.0
+Mid north coast of NSW,1,1.0
+  Glasgow ,1,0.0
+Michigan ,1,0.0
+"Memphis, in the Tennessees",1,1.0
+"Memphis,TN/ World Wide",1,0.0
+"Menasha, WI",1,1.0
+Menlo Park. SFO. The World.,1,0.0
+Mentor OH,1,0.0
+Merica!,1,0.0
+"Methville, CA",1,0.0
+Metro Manila,1,0.0
+Mexico City,1,0.0
+Mexico! ^_^,1,0.0
+Miami,1,0.0
+Miami ??,1,0.0
+"Miami Beach, Fl",1,0.0
+Miami via Lima,1,0.0
+"Miami, Florida",1,1.0
+"Miami,FL",1,1.0
+"Miami,Fla",1,1.0
+Miami?Gainesville,1,0.0
+Michel Delving.,1,0.0
+Kajang ? UiTM Puncak Alam,1,0.0
+KSU 2017,1,0.0
+"England,UK,Europe,Sol 3.",1,0.0
+Grand Rapids MI,1,0.0
+"Gloucestershire , UK",1,0.0
+"Goa, India",1,1.0
+God is Love. ,1,0.0
+God.Family.Money,1,0.0
+Gold Coast,1,1.0
+"Gold Coast, Qld, Australia",1,1.0
+Gotham,1,1.0
+"Gotham City,USA",1,0.0
+"GrC Founder, 8,000 Subscribers",1,0.0
+Greater Los Angeles Bearia,1,0.0
+Gloucester,1,0.0
+"Greater Manchester, UK",1,0.0
+"Greeley, CO",1,1.0
+"Greenfield, Massachusetts",1,0.0
+Greenpoint,1,0.0
+"Greenpoint, Brooklyn",1,0.0
+"Greensboro, NC",1,0.0
+"Greensburg, PA",1,0.0
+Greenville,1,0.0
+"Greenville, S.C.",1,1.0
+"Gloucester, MA",1,1.0
+Global Edition,1,1.0
+GOT7SupportPH,1,0.0
+Garden Grove,1,0.0
+"Gaborone, Botswana",1,0.0
+"Gages Lake, IL",1,1.0
+"Gainesville/Tampa, FL",1,0.0
+Galapa / AtlÌÁntico,1,0.0
+Galatians 2:20 ,1,0.0
+"Galveston, Texas",1,0.0
+Gameday,1,1.0
+Gander NF,1,1.0
+"Garden City, NY",1,1.0
+Garrett,1,0.0
+Glenview to Knoxville ,1,0.0
+"Geneva, Switzerland",1,1.0
+Geneva. And beyond. ,1,0.0
+Georgia ? Tennessee,1,0.0
+"Georgia, U.S.A.",1,1.0
+Get our App,1,1.0
+"Gettysburg, PA",1,0.0
+"Giddy, Greenland",1,0.0
+Gidi,1,1.0
+"Glendale, CA",1,1.0
+"Greenville,SC",1,0.0
+Greenwich Meridian,1,1.0
+Greg's place,1,0.0
+"Hampshire, UK",1,1.0
+"Halton, Ontario",1,1.0
+"Hamburg, DE",1,0.0
+Hame,1,1.0
+"Hamilton County, IN",1,1.0
+"Hamilton, ON",1,0.0
+"Hamilton, Ontario CA",1,0.0
+"Hamilton, Ontario Canada",1,1.0
+"Hammersmith, London",1,1.0
+Hampshire UK,1,0.0
+"Hampstead, London.",1,0.0
+Griffin :3,1,0.0
+"Hampton Roads, VA",1,0.0
+"Hannover, Germany",1,1.0
+"Harbour Heights, FL",1,0.0
+"Harlem, NY or Chocolate City",1,0.0
+"Harlem, New York",1,0.0
+"Harlingen, TX",1,0.0
+"Harper Woods, MI",1,0.0
+"Harpurhey, Manchester, UK",1,0.0
+"Harris County, Texas",1,0.0
+Halton Region,1,0.0
+"Halifax, Nova Scotia",1,1.0
+"Halifax, Nouvelle-Ìäcosse",1,0.0
+"Halifax, NS, Canada",1,0.0
+"Grimsby, England",1,0.0
+"Groningen, Netherlands, Europe",1,1.0
+"Groton, CT",1,0.0
+Guatemala,1,1.0
+Guayaquil,1,0.0
+Guelph Ontario Canada,1,0.0
+"Guildford, UK",1,0.0
+"Gujranwala, Pakistan",1,1.0
+Gumptown,1,0.0
+"Gurgaon, Haryana. ",1,0.0
+"Gwersyllt, Wales",1,0.0
+H / pez & sophia ,1,0.0
+HIÛ¢UTÛ¢AS,1,0.0
+HOMRA.,1,0.0
+Haarlem,1,0.0
+"Hagerstown, MD",1,1.0
+"Haiku, Maui, Hawaii",1,1.0
+Hailing from Dayton ,1,0.0
+Halfrica,1,1.0
+"GREENSBORO,NORTH CAROLINA",1,1.0
+GO BLUE! HAIL YES!!,1,1.0
+"Hartford,  connecticut",1,0.0
+"Fairfax, VA",1,1.0
+EveryWhere,1,0.0
+"Eww, I'm not Paul Elam",1,1.0
+Extraterrestrial Highway,1,0.0
+"FCT, Abuja ",1,1.0
+FILM OUT LATE 2015,1,1.0
+FIMAK A.S Ist Bolge Muduru,1,1.0
+FLYEST HIPPIE YOU KNOW ,1,0.0
+FOLLOWS YOU everywhere you go,1,1.0
+FSC '19,1,1.0
+"Fairfield, California",1,1.0
+Every Where in the World,1,1.0
+Fairgrounds Resident,1,0.0
+Fairy Tail! ,1,1.0
+Fakefams,1,1.0
+Far Away From Home,1,0.0
+Fashion Heaven. IG: TMId_,1,0.0
+"Fife, WA",1,0.0
+Finland,1,1.0
+"Fiore, Lamia Scale",1,1.0
+"Fleet/Oxford, UK",1,0.0
+Every where,1,0.0
+Evergreen Colorado,1,0.0
+GLOBAL/WORLDWIDE,1,0.0
+"EspaÌ±a, Spain",1,1.0
+England.,1,0.0
+English Midlands,1,1.0
+"Enniscrone & Aughris, Sligo ",1,1.0
+"Enterprise, Alabama",1,0.0
+"Enterprise, NV",1,0.0
+Erbil,1,1.0
+"Escondido, CA",1,0.0
+EspaÌ±a,1,0.0
+EspaÌ±a - Spain - Espagne,1,1.0
+"Espoo, Finland",1,1.0
+"Everett, WA",1,0.0
+EspÌ_rito Santo,1,0.0
+Essex,1,0.0
+"Essex, England",1,0.0
+Essex/Brighton,1,0.0
+Est. September 2012 - Bristol,1,0.0
+Estados Unidos,1,1.0
+"Eugene, Oregon",1,1.0
+"Eureka, California, USA",1,1.0
+"Evansville, IN",1,1.0
+Flipadelphia,1,1.0
+Florida Forever,1,0.0
+Florida USA,1,0.0
+"Friendswood, TX",1,0.0
+Freddy Fazbears pizzeria,1,0.0
+"Fredericksburg, Virginia",1,1.0
+"Fredonia,NY",1,1.0
+"Free State, South Africa",1,1.0
+Freeport IL. USA,1,1.0
+Freeport Ny,1,0.0
+Freeport il ,1,0.0
+Fresno,1,1.0
+"Fresno, California",1,1.0
+"Frisco, TX",1,1.0
+Florida but I wanna be n Texas,1,0.0
+"From NY. In Scranton, PA",1,1.0
+From a torn up town MANCHESTER,1,1.0
+"Frome, Somerset, England",1,0.0
+Frostburg,1,0.0
+Fruit Bowl,1,0.0
+"Fukuoka, Japan",1,1.0
+Fukushima city Fukushima.pref,1,0.0
+"Funtua, Nigeria",1,1.0
+GCC,1,1.0
+Frascati,1,0.0
+"Franklin, TN near Nashville",1,1.0
+"Frankfort, KY",1,0.0
+France,1,0.0
+"Flushing, Queens",1,0.0
+Football Field,1,1.0
+Forging my Story,1,0.0
+Former Yugoslav Republic of Macedonia,1,0.0
+"Fort Calhoun, NE",1,0.0
+"Fort Collins, CO",1,1.0
+"Fort Fizz, Ohio",1,0.0
+"Fort Knox, KY 40121",1,1.0
+"Fort Lauderdale, FL",1,1.0
+"Fort Myers, Florida",1,0.0
+"Fort Smith, AR",1,0.0
+"Fort Valley,GA/Fayetteville,AR",1,1.0
+"Fort Walton Beach, FL",1,1.0
+"Fort Walton Beach, Fl",1,1.0
+"Fort Wayne, IN",1,1.0
+"Fort Worth,  Texas ",1,1.0
+"Fort Worth, Texas",1,0.0
+"Fountain City, IN ",1,0.0
+"Fountain Valley, CA",1,0.0
+Hartford  London Hong Kong,1,0.0
+"Hartford, Connecticut",1,1.0
+KOLKATA,1,0.0
+Inside your mind.,1,0.0
+In your mind,1,0.0
+Inang Pamantasan,1,0.0
+IndiLand ,1,0.0
+"Indiana, USA",1,0.0
+"Indonesia
+",1,1.0
+"Inglewood, CA",1,0.0
+Innerhalb der LÌ_cke,1,0.0
+"Innsmouth, Mass.",1,0.0
+Inside the Beltway (DC Area),1,1.0
+Inside your webcam. Stop that.,1,0.0
+In the spirit world,1,1.0
+Instagram: trillrebel_,1,0.0
+Insula Barataria,1,0.0
+Intermountain West,1,1.0
+International,1,0.0
+International ,1,1.0
+International Action,1,1.0
+Internet,1,1.0
+InterplanetaryZone,1,0.0
+"Intramuros, Manila",1,0.0
+In your head,1,0.0
+In the moment,1,0.0
+Ideally under a big tree,1,0.0
+In My Lab Creating ,1,0.0
+Ikorodu,1,1.0
+"Ile-Ife,Osun state, Nigeria",1,1.0
+"Iliff,Colorado  ",1,1.0
+Illinois,1,0.0
+Illumination ,1,0.0
+Im Around ... Jersey,1,0.0
+Im In Route ,1,1.0
+"In #Fairie, where else? ;-)",1,0.0
+In @4SkinChan 's arms,1,1.0
+In Space,1,0.0
+In the middle of no where,1,0.0
+In The Mansion,1,0.0
+In Your Notifications ,1,0.0
+In a crazy genius mind,1,0.0
+In a graveyard ,1,0.0
+In my own world!!!,1,1.0
+In my studio,1,1.0
+In the Shadows,1,1.0
+In the Shadows...,1,0.0
+In the clouds...,1,0.0
+"Inverness, Nova Scotia",1,0.0
+"Iowa, USA",1,0.0
+"Irving , Texas",1,0.0
+"Jonesboro, AR MO, IOWA USA",1,1.0
+"Jersey City, New Jersey",1,0.0
+Jersey Shore,1,1.0
+"Jerseyville, IL",1,1.0
+Jerusalem!,1,1.0
+"Jerusalem, Israel",1,1.0
+"Jogja, Indonesia Slowly Asia",1,0.0
+Johannesburg ,1,0.0
+"Johannesburg, South Africa ",1,0.0
+"Johns Creek, GA",1,0.0
+"Jonesboro, Arkansas USA",1,1.0
+Islamabad,1,1.0
+"Joshua Tree, CA",1,1.0
+"Jubail IC, Saudi Arabia",1,0.0
+"Jubail IC, Saudi Arabia.",1,0.0
+"July 11th, 2015. ?",1,0.0
+Jump City,1,0.0
+Just Happy to Be Anywhere,1,1.0
+Justin and Ariana follow,1,0.0
+"KADUNA, NIGERIA",1,0.0
+"KLA,Uganda",1,1.0
+"Jersey City, NJ",1,0.0
+Jersey - C.I,1,1.0
+Jersey,1,0.0
+Jeddah_Saudi Arabia.,1,0.0
+"Island Lake, IL",1,0.0
+Isle of Man,1,1.0
+Isolated City In World Perth,1,1.0
+"Itirapina, SÌ£o Paulo",1,0.0
+Ivano-Frankivsk,1,0.0
+JDB/LJC/AGB/TW/PLL,1,0.0
+JKT48-Muse-A7X,1,0.0
+Jackson,1,1.0
+Jackson TN,1,0.0
+"Jackson, MS",1,1.0
+"Jacksonville Beach, FL",1,1.0
+"Jacksonville, FL",1,1.0
+"Jaipur, India",1,1.0
+"Jaipur, Rajasthan, India",1,0.0
+"Jakarta, Indonesia",1,0.0
+JamDung,1,0.0
+Jammu and Kashmir,1,1.0
+Jammu | Kashmir | Delhi,1,1.0
+"Jamshedpur, Jharkhand",1,0.0
+"Ikeja, Nigeria",1,1.0
+Idaho,1,0.0
+"Hatteras, North Carolina",1,0.0
+"Hinton, W.Va.",1,1.0
+"Hermosa Beach, CA",1,0.0
+Hertfordshire ,1,1.0
+"Hickville, USA",1,0.0
+Higher Places,1,0.0
+"Highland Park, CA",1,0.0
+"Hillsville/Lynchburg, VA",1,0.0
+"Hilton Head, SC  ",1,0.0
+Himalayan Mountains,1,1.0
+Hinterestland,1,0.0
+Hogsmeade,1,0.0
+"Here, unless there.  ",1,1.0
+Hogwarts,1,0.0
+"Holland MI via Houston, CLE",1,0.0
+"Holly Springs, NC ",1,1.0
+"Holly, MI",1,0.0
+Hollywood,1,1.0
+"Hollywood, CA",1,0.0
+Home is where we park it!,1,1.0
+Home of the Takers.,1,0.0
+Homs- Syria,1,1.0
+"Hermitage, PA",1,0.0
+"Here, there and everywhere",1,1.0
+"Ibadan,Oyo state",1,1.0
+Heathrow,1,1.0
+"Hattiesburg, MS",1,0.0
+"Haveli, Maharashtra",1,0.0
+Havenford,1,1.0
+Hawaii,1,1.0
+Hawaii USA,1,1.0
+"Hawthorne, NE",1,1.0
+Head Office: United Kingdom,1,1.0
+Headed To The Top,1,1.0
+Hearts & Minds,1,0.0
+Heinz Field ,1,1.0
+Here there and everywhere,1,1.0
+Hell,1,0.0
+"Helsinki, Finland",1,0.0
+Hemel Hempstead,1,0.0
+"Henderson, NV",1,0.0
+"Henderson, Nevada",1,0.0
+"Hendersonville, NC",1,0.0
+"Hensley Street, Portland",1,1.0
+Here & There,1,1.0
+Here And There,1,1.0
+Honeymoon Ì£ve.,1,0.0
+"Honolulu, Hawaii",1,1.0
+"Honolulu,Hawaii ",1,0.0
+IG/SC:bjfordiani,1,0.0
+Hyrule,1,0.0
+I ACCEPT SONG REQUESTS,1,1.0
+I Heard #2MBikers,1,1.0
+I O W A,1,0.0
+I rap to burn shame.,1,1.0
+I'm standing behind you,1,0.0
+I-75 in Florida,1,1.0
+IDN,1,0.0
+IG : Sincerely_TSUNAMI,1,0.0
+IG: AyshBanaysh,1,0.0
+Hooters on Peachtree,1,0.0
+"IJmuiden, The Netherlands",1,0.0
+IL,1,0.0
+IM LOST ,1,0.0
+IN,1,1.0
+IN our hearts  Earth Global ,1,0.0
+INDIA,1,0.0
+IRAQ,1,1.0
+ITALY,1,1.0
+IUPUI '19,1,0.0
+Hyderabad Telangana INDIA,1,1.0
+Hustletown,1,1.0
+"Huntsville, Alabama",1,1.0
+Huntsville AL,1,1.0
+"Hope Road, Jamaica ",1,0.0
+"Horsemind, MI",1,0.0
+"Hospital, bc of SKH vid.",1,0.0
+Host of #MindMoversPodcast,1,1.0
+Houma La,1,0.0
+Houston ,1,1.0
+Houston |??| Corsicana,1,0.0
+"Houston,  TX",1,0.0
+"Houston, TX  ",1,0.0
+"Houston, Texas",1,1.0
+"Houston, Texas ! ",1,0.0
+"Hoxton, London",1,1.0
+Htx,1,0.0
+"Huber Heights, OH",1,0.0
+"Hudson Valley, NY",1,1.0
+Hueco Mundo,1,0.0
+"Hughes, AR",1,1.0
+"Huntington, WV",1,0.0
+"Huntley, IL",1,0.0
+åø\_(?)_/åø,1,1.0

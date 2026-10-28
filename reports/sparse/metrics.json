@@ -1,0 +1,149 @@
+{
+  "source_sha256": {
+    "data/raw/train.csv": "61111c6dc31eaffa34d1e1fa62e2395325c9bc3b38bba1941a5f1ed9b3fa60df",
+    "data/raw/test.csv": "33375dc852696331c5ad30d078ea4d20e357b74052be6225fecc2a2b0f468bd2",
+    "data/raw/sample_submission.csv": "ec431de21357caad931108491d696954cd77c53149b7ce13380ca4d00d4da2db",
+    "submissions/submission.csv": "87a280345168399eb10118233b85b3f2dcd410f6d580d45d32194fa26c03d040",
+    "reports/baseline/fold_assignments.csv": "24c7aac012c62f25a279a273cda4761ce036309c0579920b92ba74ca024aaf70",
+    "reports/baseline/oof_predictions.csv": "68cfe4d4bc34bea3aa1e09a8e2957bad89a4cb3554d8196c26441b121a2e9d01"
+  },
+  "candidate_specs": [
+    {
+      "name": "original_lr",
+      "features": "original",
+      "classifier": "lr",
+      "C": 1.0
+    },
+    {
+      "name": "clean_word_lr_1",
+      "features": "word",
+      "classifier": "lr",
+      "C": 1.0
+    },
+    {
+      "name": "clean_word_lr_4",
+      "features": "word",
+      "classifier": "lr",
+      "C": 4.0
+    },
+    {
+      "name": "clean_wordchar_keyword_lr_1",
+      "features": "wordchar_keyword",
+      "classifier": "lr",
+      "C": 1.0
+    },
+    {
+      "name": "clean_wordchar_keyword_lr_4",
+      "features": "wordchar_keyword",
+      "classifier": "lr",
+      "C": 4.0
+    },
+    {
+      "name": "clean_word_svc_05",
+      "features": "word",
+      "classifier": "svc",
+      "C": 0.5
+    },
+    {
+      "name": "clean_word_svc_1",
+      "features": "word",
+      "classifier": "svc",
+      "C": 1.0
+    },
+    {
+      "name": "clean_wordchar_svc_05",
+      "features": "wordchar",
+      "classifier": "svc",
+      "C": 0.5
+    },
+    {
+      "name": "clean_wordchar_svc_1",
+      "features": "wordchar",
+      "classifier": "svc",
+      "C": 1.0
+    },
+    {
+      "name": "nb_word_lr_1",
+      "features": "binary_word",
+      "classifier": "nb_lr",
+      "C": 1.0
+    },
+    {
+      "name": "nb_word_lr_4",
+      "features": "binary_word",
+      "classifier": "nb_lr",
+      "C": 4.0
+    },
+    {
+      "name": "nb_word_svc_05",
+      "features": "binary_word",
+      "classifier": "nb_svc",
+      "C": 0.5
+    },
+    {
+      "name": "nb_word_svc_1",
+      "features": "binary_word",
+      "classifier": "nb_svc",
+      "C": 1.0
+    }
+  ],
+  "threshold_grid_margins": [
+    -0.6,
+    -0.5,
+    -0.4,
+    -0.3,
+    -0.2,
+    -0.1,
+    -0.0,
+    0.1,
+    0.2,
+    0.3,
+    0.4
+  ],
+  "outer_folds": 5,
+  "inner_folds": 3,
+  "seed": 42,
+  "baseline_oof_metrics": {
+    "f1": 0.7698771816418876,
+    "precision": 0.8165923894412067,
+    "recall": 0.7282176704371752,
+    "accuracy": 0.8129515302771575
+  },
+  "nested_oof_metrics": {
+    "f1": 0.766425557564798,
+    "precision": 0.7557206537890044,
+    "recall": 0.7774380923265056,
+    "accuracy": 0.7964008932089847
+  },
+  "baseline_mean_fold_f1": 0.7698697679850006,
+  "nested_mean_fold_f1": 0.7664299017385979,
+  "nested_std_fold_f1": 0.005443620475738391,
+  "final_model": {
+    "name": "original_lr",
+    "features": "original",
+    "classifier": "lr",
+    "C": 1.0
+  },
+  "final_threshold_margin": -0.1,
+  "final_training_cv_selection_f1_optimistic": 0.7723963279518835,
+  "nested_confusion_matrix": [
+    [
+      3520,
+      822
+    ],
+    [
+      728,
+      2543
+    ]
+  ],
+  "prediction_counts": {
+    "0": 1996,
+    "1": 1267
+  },
+  "submission_file": "submissions/submission_sparse_candidate.csv",
+  "submission_sha256": "177e72d4e278bc638e18a04394d12134419a530d916f12d1a291db4429adc1af",
+  "submitted_to_kaggle": false,
+  "elapsed_seconds": 29.072847417002777,
+  "adopted": false,
+  "reason": "Nested validation F1 is lower than the original baseline."
+}

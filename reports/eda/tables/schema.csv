@@ -1,0 +1,6 @@
+column,dtype,missing_count,missing_pct,unique_non_null
+id,int64,0,0.0,7613
+keyword,string,61,0.8012610009194797,221
+location,string,2534,33.285170103769865,3341
+text,string,0,0.0,7503
+target,int64,0,0.0,2

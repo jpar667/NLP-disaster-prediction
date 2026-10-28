@@ -1,0 +1,32 @@
+# Python environments and build products
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.ipynb_checkpoints/
+
+# Downloaded and reproducible datasets
+data/raw/*.csv
+data/raw/*.zip
+data/processed/*.csv
+
+# Model caches and local tools
+.cache/
+.tools/
+*.joblib
+*.safetensors
+*.pt
+*.pth
+
+# Credentials, OS, and editor files
+.env
+.env.*
+!.env.example
+.DS_Store
+.vscode/
+
+# Local HTML copies; executed notebooks are tracked
+reports/html/*.html

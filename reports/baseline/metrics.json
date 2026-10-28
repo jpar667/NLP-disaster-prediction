@@ -1,0 +1,138 @@
+{
+  "source": "data/raw/train.csv",
+  "source_sha256": "61111c6dc31eaffa34d1e1fa62e2395325c9bc3b38bba1941a5f1ed9b3fa60df",
+  "rows": 7613,
+  "settings": {
+    "seed": 42,
+    "n_splits": 5,
+    "threshold": 0.5,
+    "classifier": "LogisticRegression",
+    "C": 1.0,
+    "solver": "liblinear",
+    "max_iter": 1000,
+    "word_ngram_range": [
+      1,
+      2
+    ],
+    "word_max_features": 30000,
+    "char_ngram_range": [
+      3,
+      5
+    ],
+    "char_max_features": 50000,
+    "min_df": 2,
+    "location_min_frequency": 5
+  },
+  "fold_audit": [
+    {
+      "fold": 1,
+      "train_rows": 6088,
+      "validation_rows": 1525,
+      "train_disaster_rate": 0.4296977660972405,
+      "validation_disaster_rate": 0.42950819672131146,
+      "overlapping_normalized_text_groups": 0
+    },
+    {
+      "fold": 2,
+      "train_rows": 6092,
+      "validation_rows": 1521,
+      "train_disaster_rate": 0.42957977675640185,
+      "validation_disaster_rate": 0.42998027613412226,
+      "overlapping_normalized_text_groups": 0
+    },
+    {
+      "fold": 3,
+      "train_rows": 6090,
+      "validation_rows": 1523,
+      "train_disaster_rate": 0.4297208538587849,
+      "validation_disaster_rate": 0.4294156270518713,
+      "overlapping_normalized_text_groups": 0
+    },
+    {
+      "fold": 4,
+      "train_rows": 6091,
+      "validation_rows": 1522,
+      "train_disaster_rate": 0.42965030372681007,
+      "validation_disaster_rate": 0.4296977660972405,
+      "overlapping_normalized_text_groups": 0
+    },
+    {
+      "fold": 5,
+      "train_rows": 6091,
+      "validation_rows": 1522,
+      "train_disaster_rate": 0.42965030372681007,
+      "validation_disaster_rate": 0.4296977660972405,
+      "overlapping_normalized_text_groups": 0
+    }
+  ],
+  "models": [
+    {
+      "model": "text_only",
+      "label": "Text only",
+      "mean_fold_f1": 0.7649795633200855,
+      "std_fold_f1": 0.01311345427017902,
+      "oof_f1": 0.765025522805862,
+      "oof_precision": 0.8290506780870807,
+      "oof_recall": 0.7101803729746256,
+      "oof_accuracy": 0.81255746748982,
+      "elapsed_seconds": 2.9552644590003183,
+      "delta_oof_f1_vs_text": 0.0
+    },
+    {
+      "model": "text_keyword",
+      "label": "Text + keyword",
+      "mean_fold_f1": 0.7698697679850006,
+      "std_fold_f1": 0.007427929788349478,
+      "oof_f1": 0.7698771816418876,
+      "oof_precision": 0.8165923894412067,
+      "oof_recall": 0.7282176704371752,
+      "oof_accuracy": 0.8129515302771575,
+      "elapsed_seconds": 2.9722587500000373,
+      "delta_oof_f1_vs_text": 0.004851658836025563
+    },
+    {
+      "model": "text_keyword_location",
+      "label": "Text + keyword + location",
+      "mean_fold_f1": 0.770272310599335,
+      "std_fold_f1": 0.009838217817235855,
+      "oof_f1": 0.7703180212014135,
+      "oof_precision": 0.8115059221658206,
+      "oof_recall": 0.7331091409354937,
+      "oof_accuracy": 0.8121634047024826,
+      "elapsed_seconds": 3.080019499990158,
+      "delta_oof_f1_vs_text": 0.005292498395551459
+    }
+  ],
+  "confusion_matrices": {
+    "text_only": [
+      [
+        3863,
+        479
+      ],
+      [
+        948,
+        2323
+      ]
+    ],
+    "text_keyword": [
+      [
+        3807,
+        535
+      ],
+      [
+        889,
+        2382
+      ]
+    ],
+    "text_keyword_location": [
+      [
+        3785,
+        557
+      ],
+      [
+        873,
+        2398
+      ]
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+field,is_missing,count,disaster_rate
+keyword,False,7552,0.4275688559322034
+keyword,True,61,0.6885245901639344
+location,False,5079,0.4321716873400276
+location,True,2534,0.4246250986582478

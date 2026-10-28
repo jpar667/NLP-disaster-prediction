@@ -1,0 +1,64 @@
+{
+  "source": "data/raw/train.csv",
+  "source_sha256": "61111c6dc31eaffa34d1e1fa62e2395325c9bc3b38bba1941a5f1ed9b3fa60df",
+  "rows": 7613,
+  "columns": [
+    "id",
+    "keyword",
+    "location",
+    "text",
+    "target"
+  ],
+  "target_counts": {
+    "0": 4342,
+    "1": 3271
+  },
+  "target_1_fraction": 0.4296597924602653,
+  "missing_counts": {
+    "id": 0,
+    "keyword": 61,
+    "location": 2534,
+    "text": 0,
+    "target": 0
+  },
+  "duplicate_id_count": 0,
+  "full_row_duplicates": 0,
+  "duplicates": [
+    {
+      "matching_rule": "text",
+      "duplicate_groups": 69,
+      "rows_in_duplicate_groups": 179,
+      "excess_duplicate_rows": 110,
+      "conflicting_groups": 18,
+      "rows_in_conflicting_groups": 55
+    },
+    {
+      "matching_rule": "normalized_text",
+      "duplicate_groups": 70,
+      "rows_in_duplicate_groups": 182,
+      "excess_duplicate_rows": 112,
+      "conflicting_groups": 18,
+      "rows_in_conflicting_groups": 56
+    },
+    {
+      "matching_rule": "template_text",
+      "duplicate_groups": 305,
+      "rows_in_duplicate_groups": 974,
+      "excess_duplicate_rows": 669,
+      "conflicting_groups": 69,
+      "rows_in_conflicting_groups": 245
+    }
+  ],
+  "keyword_unique_non_null": 221,
+  "location_unique_non_null": 3341,
+  "keyword_runs": 222,
+  "mean_char_count_by_target": {
+    "0": 95.70681713496084,
+    "1": 108.11342097217977
+  },
+  "mean_word_count_by_target": {
+    "0": 14.704744357438969,
+    "1": 15.167532864567411
+  },
+  "max_char_count": 157
+}

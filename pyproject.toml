@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nlp-disaster-prediction"
+version = "0.1.0"
+description = "Disaster tweet classification with EDA, grouped validation, and sentence embeddings"
+readme = "README.md"
+requires-python = ">=3.12"
+dynamic = ["dependencies"]
+
+[project.optional-dependencies]
+semantic = [
+    "torch==2.14.1",
+    "sentence-transformers==6.2.0",
+    "transformers==5.21.0",
+    "huggingface-hub==2.3.0",
+    "safetensors==0.8.0",
+    "tokenizers==0.23.3",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements.txt"]}

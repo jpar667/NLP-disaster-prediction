@@ -1,0 +1,4 @@
+matching_rule,duplicate_groups,rows_in_duplicate_groups,excess_duplicate_rows,conflicting_groups,rows_in_conflicting_groups
+text,69,179,110,18,55
+normalized_text,70,182,112,18,56
+template_text,305,974,669,69,245
